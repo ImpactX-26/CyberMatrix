@@ -1,0 +1,299 @@
+{
+ "bundle_id": "demo_planned_rules",
+ "lang": "hi",
+ "synthetic": true,
+ "description": "Conflicts for the 3 PLANNED rules: today's engine flags nothing (known blind spot)",
+ "persons": {
+  "P01": "Lata Lal",
+  "P02": "Ramesh Sharma",
+  "P03": "Sunita Devi",
+  "P04": "Hari Verma",
+  "P05": "Pooja Nair",
+  "P06": "Kiran Verma",
+  "P07": "Vikas Kumar",
+  "P08": "Sunita Kumar",
+  "P09": "Gopal Verma",
+  "P10": "Hari Singh",
+  "P11": "Anil Verma",
+  "P12": "Geeta Sharma"
+ },
+ "docs": [
+  {
+   "id": "D01",
+   "type": "ror",
+   "date": "1989-08-18",
+   "date_raw": "१८/०८/१९८९",
+   "survey": "331/3",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "लता लाल",
+     "id": "P01",
+     "father": "Gopal Kumar",
+     "share": "1"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_planned_rules_D01.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.93
+  },
+  {
+   "id": "D02",
+   "type": "ror",
+   "date": "1995-03-08",
+   "date_raw": "1995-03-08",
+   "survey": "264/2",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "रमेश शर्मा",
+     "id": "P02",
+     "father": "Anil Lal",
+     "share": "1/2"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_planned_rules_D02.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.57
+  },
+  {
+   "id": "D03",
+   "type": "ror",
+   "date": "1995-03-08",
+   "date_raw": "०८/०३/१९९५",
+   "survey": "264/2",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "Sunita Devi",
+     "id": "P03",
+     "father": "Hari Sharma",
+     "share": "1/2"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_planned_rules_D03.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.62
+  },
+  {
+   "id": "D04",
+   "type": "sale",
+   "date": "1997-12-02",
+   "date_raw": "०२/१२/१९९७",
+   "survey": "264/2",
+   "from": "Ramesh Sharma",
+   "from_id": "P02",
+   "from_father": "Anil Lal",
+   "to": [
+    {
+     "name": "हरि वर्मा",
+     "id": "P04",
+     "father": "Suresh Kumar",
+     "share": "1/2"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_planned_rules_D04.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.55
+  },
+  {
+   "id": "D05",
+   "type": "sale",
+   "date": "1999-04-16",
+   "date_raw": "1999-04-16",
+   "survey": "264/2",
+   "from": "Ramesh Sharma",
+   "from_id": "P02",
+   "from_father": "Anil Lal",
+   "to": [
+    {
+     "name": "पूजा नायर",
+     "id": "P05",
+     "father": "Sunita Nair",
+     "share": "1/4"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_planned_rules_D05.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.87
+  },
+  {
+   "id": "D06",
+   "type": "ror",
+   "date": "1983-01-07",
+   "date_raw": "07/01/1983",
+   "survey": "596/9",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "Kiran Verma",
+     "id": "P06",
+     "father": "Pooja Devi",
+     "share": "1"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_planned_rules_D06.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.63
+  },
+  {
+   "id": "D07",
+   "type": "sale",
+   "date": "1987-02-15",
+   "date_raw": "१५/०२/१९८७",
+   "survey": "596/9",
+   "from": "Kiran Verma",
+   "from_id": "P06",
+   "from_father": "Pooja Devi",
+   "to": [
+    {
+     "name": "विकास कुमार",
+     "id": "P07",
+     "father": "Pooja Kumar",
+     "share": "1"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_planned_rules_D07.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.84
+  },
+  {
+   "id": "D08",
+   "type": "mutation",
+   "date": "1987-04-16",
+   "date_raw": "१६/०४/१९८७",
+   "survey": "596/9",
+   "from": "किरण वर्मा",
+   "from_id": "P06",
+   "from_father": "Pooja Devi",
+   "to": [
+    {
+     "name": "सुनीता कुमार",
+     "id": "P08",
+     "father": "Geeta Kumar",
+     "share": "1"
+    }
+   ],
+   "clause": "दाखिल-खारिज प्रविष्टि",
+   "file": "demo_planned_rules_D08.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.58,
+   "basis_doc": "D07"
+  },
+  {
+   "id": "D09",
+   "type": "ror",
+   "date": "1995-01-13",
+   "date_raw": "१३/०१/१९९५",
+   "survey": "208/1",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "गोपाल वर्मा",
+     "id": "P09",
+     "father": "Anil Devi",
+     "share": "1"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_planned_rules_D09.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.78
+  },
+  {
+   "id": "D10",
+   "type": "succession",
+   "date": "2006-07-14",
+   "date_raw": "१४/०७/२००६",
+   "survey": "208/1",
+   "from": "गोपाल वर्मा",
+   "from_id": "P09",
+   "from_father": "Anil Devi",
+   "to": [
+    {
+     "name": "हरि सिंह",
+     "id": "P10",
+     "father": "Mohan Sharma",
+     "share": "1/2"
+    },
+    {
+     "name": "Anil Verma",
+     "id": "P11",
+     "father": "Mohan Verma",
+     "share": "1/2"
+    }
+   ],
+   "clause": "वसीयत खण्ड 5",
+   "file": "demo_planned_rules_D10.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.94,
+   "death_date": "2005-12-26"
+  },
+  {
+   "id": "D11",
+   "type": "sale",
+   "date": "2006-02-24",
+   "date_raw": "२४/०२/२००६",
+   "survey": "208/1",
+   "from": "गोपाल वर्मा",
+   "from_id": "P09",
+   "from_father": "Anil Devi",
+   "to": [
+    {
+     "name": "गीता शर्मा",
+     "id": "P12",
+     "father": "Pooja Verma",
+     "share": "1"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_planned_rules_D11.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.97
+  }
+ ],
+ "labels": [
+  {
+   "rule": "oversold_share",
+   "survey": "264/2",
+   "doc_ids": [
+    "D04",
+    "D05"
+   ]
+  },
+  {
+   "rule": "mutation_mismatch",
+   "survey": "596/9",
+   "doc_ids": [
+    "D07",
+    "D08"
+   ]
+  },
+  {
+   "rule": "post_death_sale",
+   "survey": "208/1",
+   "doc_ids": [
+    "D11",
+    "D10"
+   ]
+  }
+ ],
+ "engine_flags": []
+}

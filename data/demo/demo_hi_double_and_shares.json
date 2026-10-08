@@ -1,0 +1,311 @@
+{
+ "bundle_id": "demo_hi_double_and_shares",
+ "lang": "hi",
+ "synthetic": true,
+ "description": "Hindi names/labels/digits; double sale + share sum",
+ "persons": {
+  "P01": "Mohan Devi",
+  "P02": "Lata Lal",
+  "P03": "Mohan Sharma",
+  "P04": "Gopal Singh",
+  "P05": "Anil Devi",
+  "P06": "Lata Nair",
+  "P07": "Lata Singh",
+  "P08": "Mohan Nair",
+  "P09": "Anil Lal",
+  "P10": "Vikas Singh",
+  "P11": "Mohan Lal",
+  "P12": "Sunita Rao",
+  "P13": "Hari Rao"
+ },
+ "docs": [
+  {
+   "id": "D01",
+   "type": "ror",
+   "date": "1977-07-15",
+   "date_raw": "१५/०७/१९७७",
+   "survey": "484/6",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "Mohan Devi",
+     "id": "P01",
+     "father": "Gopal Verma",
+     "share": "1"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_hi_double_and_shares_D01.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.91
+  },
+  {
+   "id": "D02",
+   "type": "sale",
+   "date": "1983-09-07",
+   "date_raw": "०७/०९/१९८३",
+   "survey": "484/6",
+   "from": "Mohan Devi",
+   "from_id": "P01",
+   "from_father": "Gopal Verma",
+   "to": [
+    {
+     "name": "लता लाल",
+     "id": "P02",
+     "father": "Gopal Devi",
+     "share": "1"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_hi_double_and_shares_D02.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.73
+  },
+  {
+   "id": "D03",
+   "type": "sale",
+   "date": "1991-05-08",
+   "date_raw": "०८/०५/१९९१",
+   "survey": "484/6",
+   "from": "लता लाल",
+   "from_id": "P02",
+   "from_father": "Gopal Devi",
+   "to": [
+    {
+     "name": "मोहन शर्मा",
+     "id": "P03",
+     "father": "Hari Kumar",
+     "share": "1"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_hi_double_and_shares_D03.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.91
+  },
+  {
+   "id": "D04",
+   "type": "ror",
+   "date": "1991-05-28",
+   "date_raw": "28/05/1991",
+   "survey": "197/1",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "गोपाल सिंह",
+     "id": "P04",
+     "father": "Vikas Sharma",
+     "share": "1"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_hi_double_and_shares_D04.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.55
+  },
+  {
+   "id": "D05",
+   "type": "sale",
+   "date": "1994-09-09",
+   "date_raw": "०९/०९/१९९४",
+   "survey": "197/1",
+   "from": "Gopal Singh",
+   "from_id": "P04",
+   "from_father": "Vikas Sharma",
+   "to": [
+    {
+     "name": "अनिल देवी",
+     "id": "P05",
+     "father": "Lata Rao",
+     "share": "1/2"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_hi_double_and_shares_D05.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.97
+  },
+  {
+   "id": "D06",
+   "type": "sale",
+   "date": "1996-11-17",
+   "date_raw": "17/11/1996",
+   "survey": "197/1",
+   "from": "Gopal Singh",
+   "from_id": "P04",
+   "from_father": "Vikas Sharma",
+   "to": [
+    {
+     "name": "लता नायर",
+     "id": "P06",
+     "father": "Anil Nair",
+     "share": "1/2"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_hi_double_and_shares_D06.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.89
+  },
+  {
+   "id": "D07",
+   "type": "ror",
+   "date": "1977-01-18",
+   "date_raw": "१८/०१/१९७७",
+   "survey": "376/8",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "लता सिंह",
+     "id": "P07",
+     "father": "Lata Singh",
+     "share": "1"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_hi_double_and_shares_D07.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.75
+  },
+  {
+   "id": "D08",
+   "type": "sale",
+   "date": "1979-10-15",
+   "date_raw": "१५/१०/१९७९",
+   "survey": "376/8",
+   "from": "लता सिंह",
+   "from_id": "P07",
+   "from_father": "Lata Singh",
+   "to": [
+    {
+     "name": "मोहन नायर",
+     "id": "P08",
+     "father": "Anil Sharma",
+     "share": "1"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_hi_double_and_shares_D08.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.67
+  },
+  {
+   "id": "D09",
+   "type": "sale",
+   "date": "1982-07-11",
+   "date_raw": "११/०७/१९८२",
+   "survey": "376/8",
+   "from": "लता सिंह",
+   "from_id": "P07",
+   "from_father": "Lata Singh",
+   "to": [
+    {
+     "name": "अनिल लाल",
+     "id": "P09",
+     "father": "Hari Devi",
+     "share": "1"
+    }
+   ],
+   "clause": "विक्रय विलेख खण्ड 2",
+   "file": "demo_hi_double_and_shares_D09.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.78
+  },
+  {
+   "id": "D10",
+   "type": "ror",
+   "date": "1995-07-28",
+   "date_raw": "२८/०७/१९९५",
+   "survey": "551/6",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "विकास सिंह",
+     "id": "P10",
+     "father": "Ramesh Kumar",
+     "share": "1"
+    }
+   ],
+   "clause": "अधिकार अभिलेख",
+   "file": "demo_hi_double_and_shares_D10.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.57
+  },
+  {
+   "id": "D11",
+   "type": "succession",
+   "date": "2006-07-10",
+   "date_raw": "१०/०७/२००६",
+   "survey": "551/6",
+   "from": "विकास सिंह",
+   "from_id": "P10",
+   "from_father": "Ramesh Kumar",
+   "to": [
+    {
+     "name": "मोहन लाल",
+     "id": "P11",
+     "father": "Kiran Verma",
+     "share": "1/2"
+    },
+    {
+     "name": "सुनीता राव",
+     "id": "P12",
+     "father": "Hari Kumar",
+     "share": "1/2"
+    },
+    {
+     "name": "हरि राव",
+     "id": "P13",
+     "father": "Gopal Devi",
+     "share": "1/4"
+    }
+   ],
+   "clause": "वसीयत खण्ड 5",
+   "file": "demo_hi_double_and_shares_D11.pdf",
+   "lang": "hi",
+   "ocr_quality": 0.61
+  }
+ ],
+ "labels": [
+  {
+   "rule": "double_sale",
+   "survey": "376/8",
+   "doc_ids": [
+    "D08",
+    "D09"
+   ]
+  },
+  {
+   "rule": "share_sum",
+   "survey": "551/6",
+   "doc_ids": [
+    "D11"
+   ]
+  }
+ ],
+ "engine_flags": [
+  {
+   "rule": "double_sale",
+   "survey": "376/8",
+   "doc_ids": [
+    "D08",
+    "D09"
+   ]
+  },
+  {
+   "rule": "share_sum",
+   "survey": "551/6",
+   "doc_ids": [
+    "D11"
+   ]
+  }
+ ]
+}

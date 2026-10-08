@@ -1,0 +1,12 @@
+DOCUMENT ID: D001
+DOCUMENT TYPE: Sale Deed
+SURVEY NUMBER: 123/4
+VILLAGE: Demo Village
+DISTRICT: Bengaluru Urban
+STATE: Karnataka
+DATE: 10/06/2015
+FROM: Ravi Kumar
+TO: Sahana Rao
+AREA: 2.5
+AREA UNIT: acres
+SHARES: 100%

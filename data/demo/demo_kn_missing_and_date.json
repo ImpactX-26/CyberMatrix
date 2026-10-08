@@ -1,0 +1,242 @@
+{
+ "bundle_id": "demo_kn_missing_and_date",
+ "lang": "kn",
+ "synthetic": true,
+ "description": "Kannada names/labels/digits; missing link + impossible date",
+ "persons": {
+  "P01": "Suresh Kumar",
+  "P02": "Lata Nair",
+  "P03": "Gopal Devi",
+  "P04": "Anil Rao",
+  "P05": "Geeta Verma",
+  "P06": "Gopal Singh",
+  "P07": "Lata Lal",
+  "P08": "Vikas Sharma",
+  "P09": "Pooja Lal",
+  "P10": "Sunita Verma",
+  "P11": "Vikas Rao"
+ },
+ "docs": [
+  {
+   "id": "D01",
+   "type": "ror",
+   "date": "1994-10-15",
+   "date_raw": "15/10/1994",
+   "survey": "523/3",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "ಸುರೇಶ್ ಕುಮಾರ್",
+     "id": "P01",
+     "father": "Pooja Singh",
+     "share": "1"
+    }
+   ],
+   "clause": "ಪಹಣಿ (ಆರ್‌ಟಿಸಿ)",
+   "file": "demo_kn_missing_and_date_D01.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.78
+  },
+  {
+   "id": "D02",
+   "type": "sale",
+   "date": "2001-11-14",
+   "date_raw": "೧೪/೧೧/೨೦೦೧",
+   "survey": "523/3",
+   "from": "Suresh Kumar",
+   "from_id": "P01",
+   "from_father": "Pooja Singh",
+   "to": [
+    {
+     "name": "ಲತಾ ನಾಯರ್",
+     "id": "P02",
+     "father": "Lata Sharma",
+     "share": "1"
+    }
+   ],
+   "clause": "ಕ್ರಯ ಪತ್ರ ಷರತ್ತು 2",
+   "file": "demo_kn_missing_and_date_D02.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.85
+  },
+  {
+   "id": "D03",
+   "type": "ror",
+   "date": "1995-09-15",
+   "date_raw": "15/09/1995",
+   "survey": "233/9",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "ಗೋಪಾಲ್ ದೇವಿ",
+     "id": "P03",
+     "father": "Gopal Singh",
+     "share": "1"
+    }
+   ],
+   "clause": "ಪಹಣಿ (ಆರ್‌ಟಿಸಿ)",
+   "file": "demo_kn_missing_and_date_D03.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.64
+  },
+  {
+   "id": "D04",
+   "type": "succession",
+   "date": "2006-08-28",
+   "date_raw": "೨೮/೦೮/೨೦೦೬",
+   "survey": "233/9",
+   "from": "ಗೋಪಾಲ್ ದೇವಿ",
+   "from_id": "P03",
+   "from_father": "Gopal Singh",
+   "to": [
+    {
+     "name": "ಅನಿಲ್ ರಾವ್",
+     "id": "P04",
+     "father": "Mohan Sharma",
+     "share": "1/2"
+    },
+    {
+     "name": "ಗೀತಾ ವರ್ಮಾ",
+     "id": "P05",
+     "father": "Lata Lal",
+     "share": "1/4"
+    },
+    {
+     "name": "ಗೋಪಾಲ್ ಸಿಂಗ್",
+     "id": "P06",
+     "father": "Sunita Nair",
+     "share": "1/4"
+    }
+   ],
+   "clause": "ಉಯಿಲು ಷರತ್ತು 5",
+   "file": "demo_kn_missing_and_date_D04.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.92,
+   "death_date": "2006-02-09"
+  },
+  {
+   "id": "D05",
+   "type": "sale",
+   "date": "2008-01-10",
+   "date_raw": "೧೦/೦೧/೨೦೦೮",
+   "survey": "233/9",
+   "from": "Anil Rao",
+   "from_id": "P04",
+   "from_father": "Mohan Sharma",
+   "to": [
+    {
+     "name": "Lata Lal",
+     "id": "P07",
+     "father": "Hari Nair",
+     "share": "1/2"
+    }
+   ],
+   "clause": "ಕ್ರಯ ಪತ್ರ ಷರತ್ತು 2",
+   "file": "demo_kn_missing_and_date_D05.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.76
+  },
+  {
+   "id": "D06",
+   "type": "sale",
+   "date": "2011-06-15",
+   "date_raw": "೧೫/೦೬/೨೦೧೧",
+   "survey": "453/3",
+   "from": "ವಿಕಾಸ್ ಶರ್ಮಾ",
+   "from_id": "P08",
+   "from_father": "Sunita Devi",
+   "to": [
+    {
+     "name": "ಪೂಜಾ ಲಾಲ್",
+     "id": "P09",
+     "father": "Gopal Singh",
+     "share": "1"
+    }
+   ],
+   "clause": "ಕ್ರಯ ಪತ್ರ ಷರತ್ತು 2",
+   "file": "demo_kn_missing_and_date_D06.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.61
+  },
+  {
+   "id": "D07",
+   "type": "ror",
+   "date": "1982-07-09",
+   "date_raw": "೦೯/೦೭/೧೯೮೨",
+   "survey": "387/8",
+   "from": "Revenue Dept",
+   "from_id": "GOV",
+   "from_father": null,
+   "to": [
+    {
+     "name": "Sunita Verma",
+     "id": "P10",
+     "father": "Ramesh Sharma",
+     "share": "1"
+    }
+   ],
+   "clause": "ಪಹಣಿ (ಆರ್‌ಟಿಸಿ)",
+   "file": "demo_kn_missing_and_date_D07.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.62
+  },
+  {
+   "id": "D08",
+   "type": "sale",
+   "date": "1979-08-19",
+   "date_raw": "೧೯/೦೮/೧೯೭೯",
+   "survey": "387/8",
+   "from": "ಸುನೀತಾ ವರ್ಮಾ",
+   "from_id": "P10",
+   "from_father": "Ramesh Sharma",
+   "to": [
+    {
+     "name": "ವಿಕಾಸ್ ರಾವ್",
+     "id": "P11",
+     "father": "Vikas Nair",
+     "share": "1"
+    }
+   ],
+   "clause": "ಕ್ರಯ ಪತ್ರ ಷರತ್ತು 2",
+   "file": "demo_kn_missing_and_date_D08.pdf",
+   "lang": "kn",
+   "ocr_quality": 0.68
+  }
+ ],
+ "labels": [
+  {
+   "rule": "missing_link",
+   "survey": "453/3",
+   "doc_ids": [
+    "D06"
+   ]
+  },
+  {
+   "rule": "impossible_date",
+   "survey": "387/8",
+   "doc_ids": [
+    "D08"
+   ]
+  }
+ ],
+ "engine_flags": [
+  {
+   "rule": "impossible_date",
+   "survey": "387/8",
+   "doc_ids": [
+    "D08"
+   ]
+  },
+  {
+   "rule": "missing_link",
+   "survey": "453/3",
+   "doc_ids": [
+    "D06"
+   ]
+  }
+ ]
+}

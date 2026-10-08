@@ -1,0 +1,11 @@
+DOCUMENT ID: D002
+DOCUMENT TYPE: Sale Deed
+VILLAGE: Demo Village
+DISTRICT: Bengaluru Urban
+STATE: Karnataka
+DATE: 15/03/2021
+FROM: Ravi Kumar
+TO: Priya Rao
+AREA: 1.5
+AREA UNIT: acres
+SHARES: 100%

@@ -1,0 +1,14 @@
+{
+  "document_id": "D001-SIDECAR",
+  "document_type": "Sale Deed",
+  "survey_number": "999/8",
+  "village": "Sidecar Village",
+  "district": "Test District",
+  "state": "Karnataka",
+  "date": "2020-12-25",
+  "from_party": "Sidecar Seller",
+  "to_party": "Sidecar Buyer",
+  "area": 5.0,
+  "area_unit": "acres",
+  "shares": "50%"
+}
