@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-cream font-sans text-navy antialiased; overflow-x: hidden; }
+  h1, h2, h3 { @apply font-display; letter-spacing: -0.01em; }
+  :focus-visible { outline: 2px solid #3478D4; outline-offset: 2px; }
+}
+
+@layer components {
+  .card { @apply rounded-2xl border border-navy/10 bg-white shadow-card; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-2.5 text-sm font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-40; }
+  .btn-primary { @apply btn bg-ok text-white hover:bg-[#117a3a]; }
+  .btn-navy { @apply btn bg-navy text-white hover:bg-deep; }
+  .btn-ghost { @apply btn border border-navy/20 bg-white text-navy hover:bg-navy/5; }
+  .label { @apply text-xs font-medium text-navy/55; }
+}
+
+.parcel-label {
+  background: transparent !important; border: 0 !important; box-shadow: none !important;
+  font-weight: 700; font-size: 12px; color: #08263D; padding: 0 !important;
+}
+.parcel-label::before { display: none !important; }
+.sat .parcel-label { color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,.7); }
+.leaflet-container { font-family: inherit; }
+
+@keyframes reveal { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes pulseRing { 0% { transform: scale(.8); opacity: .8; } 100% { transform: scale(2.2); opacity: 0; } }
+.anim-reveal { animation: reveal .45s ease both; }
+.anim-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: draw 2.2s ease .3s forwards; }
+.anim-ring { transform-origin: center; transform-box: fill-box; animation: pulseRing 2s ease-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-reveal, .anim-draw, .anim-ring { animation: none; stroke-dashoffset: 0; }
+}
+
+.react-flow__attribution { display: none; }
