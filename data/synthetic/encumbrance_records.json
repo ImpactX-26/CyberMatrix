@@ -1,0 +1,1676 @@
+[
+  {
+    "property_id": "PROP-00001",
+    "event_date": "2024-07-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00002",
+    "event_date": "2024-08-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00003",
+    "event_date": "2024-08-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00004",
+    "event_date": "2024-08-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00005",
+    "event_date": "2024-08-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00006",
+    "event_date": "2024-08-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00007",
+    "event_date": "2024-08-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00008",
+    "event_date": "2024-08-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00009",
+    "event_date": "2024-08-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00010",
+    "event_date": "2024-09-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00011",
+    "event_date": "2024-09-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00012",
+    "event_date": "2024-09-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00013",
+    "event_date": "2024-09-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00014",
+    "event_date": "2024-09-19",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00015",
+    "event_date": "2024-09-23",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00016",
+    "event_date": "2024-09-27",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00017",
+    "event_date": "2024-10-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00018",
+    "event_date": "2024-10-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00019",
+    "event_date": "2024-10-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00020",
+    "event_date": "2024-10-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00021",
+    "event_date": "2024-10-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00022",
+    "event_date": "2024-10-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00023",
+    "event_date": "2024-10-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00024",
+    "event_date": "2024-10-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00025",
+    "event_date": "2024-11-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00026",
+    "event_date": "2024-11-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00027",
+    "event_date": "2024-11-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00028",
+    "event_date": "2024-11-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00029",
+    "event_date": "2024-11-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00030",
+    "event_date": "2024-11-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00031",
+    "event_date": "2024-11-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00032",
+    "event_date": "2024-11-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00033",
+    "event_date": "2024-12-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00034",
+    "event_date": "2024-12-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00035",
+    "event_date": "2024-12-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00036",
+    "event_date": "2024-12-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00037",
+    "event_date": "2024-12-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00038",
+    "event_date": "2024-12-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00039",
+    "event_date": "2024-12-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00040",
+    "event_date": "2025-01-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00041",
+    "event_date": "2025-01-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00042",
+    "event_date": "2025-01-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00043",
+    "event_date": "2025-01-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00044",
+    "event_date": "2025-01-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00045",
+    "event_date": "2025-01-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00046",
+    "event_date": "2025-01-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00047",
+    "event_date": "2025-01-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00048",
+    "event_date": "2025-02-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00049",
+    "event_date": "2025-02-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00050",
+    "event_date": "2025-02-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00051",
+    "event_date": "2025-02-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00052",
+    "event_date": "2025-02-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00053",
+    "event_date": "2025-02-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00054",
+    "event_date": "2025-02-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00055",
+    "event_date": "2025-03-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00056",
+    "event_date": "2025-03-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00057",
+    "event_date": "2025-03-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00058",
+    "event_date": "2025-03-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00059",
+    "event_date": "2025-03-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00060",
+    "event_date": "2025-03-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00061",
+    "event_date": "2025-03-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00062",
+    "event_date": "2025-03-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00063",
+    "event_date": "2025-04-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00064",
+    "event_date": "2025-04-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00065",
+    "event_date": "2025-04-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00066",
+    "event_date": "2025-04-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00067",
+    "event_date": "2025-04-19",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00068",
+    "event_date": "2025-04-23",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00069",
+    "event_date": "2025-04-27",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00070",
+    "event_date": "2025-05-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00071",
+    "event_date": "2025-05-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00072",
+    "event_date": "2025-05-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00073",
+    "event_date": "2025-05-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00074",
+    "event_date": "2025-05-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00075",
+    "event_date": "2025-05-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00076",
+    "event_date": "2025-05-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00077",
+    "event_date": "2025-05-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00078",
+    "event_date": "2025-06-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00079",
+    "event_date": "2025-06-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00080",
+    "event_date": "2025-06-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00081",
+    "event_date": "2025-06-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00082",
+    "event_date": "2025-06-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00083",
+    "event_date": "2025-06-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00084",
+    "event_date": "2025-06-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00085",
+    "event_date": "2025-06-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00086",
+    "event_date": "2025-07-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00087",
+    "event_date": "2025-07-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00088",
+    "event_date": "2025-07-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00089",
+    "event_date": "2025-07-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00090",
+    "event_date": "2025-07-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00091",
+    "event_date": "2025-07-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00092",
+    "event_date": "2025-07-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00093",
+    "event_date": "2025-08-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00094",
+    "event_date": "2025-08-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00095",
+    "event_date": "2025-08-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00096",
+    "event_date": "2025-08-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00097",
+    "event_date": "2025-08-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00098",
+    "event_date": "2025-08-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00099",
+    "event_date": "2025-08-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00100",
+    "event_date": "2025-08-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00101",
+    "event_date": "2025-09-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00102",
+    "event_date": "2025-09-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00103",
+    "event_date": "2025-09-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00104",
+    "event_date": "2025-09-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00105",
+    "event_date": "2025-09-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00106",
+    "event_date": "2025-09-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00107",
+    "event_date": "2025-09-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00108",
+    "event_date": "2025-09-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00109",
+    "event_date": "2025-10-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00110",
+    "event_date": "2025-10-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00111",
+    "event_date": "2025-10-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00112",
+    "event_date": "2025-10-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00113",
+    "event_date": "2025-10-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00114",
+    "event_date": "2025-10-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00115",
+    "event_date": "2025-10-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00116",
+    "event_date": "2025-11-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00117",
+    "event_date": "2025-11-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00118",
+    "event_date": "2025-11-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00119",
+    "event_date": "2025-11-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00120",
+    "event_date": "2025-11-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00121",
+    "event_date": "2025-11-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00122",
+    "event_date": "2025-11-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00123",
+    "event_date": "2025-11-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00124",
+    "event_date": "2025-12-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00125",
+    "event_date": "2025-12-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00126",
+    "event_date": "2025-12-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00127",
+    "event_date": "2025-12-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00128",
+    "event_date": "2025-12-19",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00129",
+    "event_date": "2025-12-23",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00130",
+    "event_date": "2025-12-27",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00131",
+    "event_date": "2025-12-31",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00132",
+    "event_date": "2026-01-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00133",
+    "event_date": "2026-01-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00134",
+    "event_date": "2026-01-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00135",
+    "event_date": "2026-01-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00136",
+    "event_date": "2026-01-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00137",
+    "event_date": "2026-01-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00138",
+    "event_date": "2026-01-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00139",
+    "event_date": "2026-02-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00140",
+    "event_date": "2026-02-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00141",
+    "event_date": "2026-02-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00142",
+    "event_date": "2026-02-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00143",
+    "event_date": "2026-02-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00144",
+    "event_date": "2026-02-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00145",
+    "event_date": "2026-02-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00146",
+    "event_date": "2026-03-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00147",
+    "event_date": "2026-03-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00148",
+    "event_date": "2026-03-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00149",
+    "event_date": "2026-03-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00150",
+    "event_date": "2026-03-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00151",
+    "event_date": "2026-03-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00152",
+    "event_date": "2026-03-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00153",
+    "event_date": "2026-03-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00154",
+    "event_date": "2026-04-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00155",
+    "event_date": "2026-04-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00156",
+    "event_date": "2026-04-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00157",
+    "event_date": "2026-04-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00158",
+    "event_date": "2026-04-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00159",
+    "event_date": "2026-04-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00160",
+    "event_date": "2026-04-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00161",
+    "event_date": "2026-04-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00162",
+    "event_date": "2026-05-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00163",
+    "event_date": "2026-05-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00164",
+    "event_date": "2026-05-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00165",
+    "event_date": "2026-05-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00166",
+    "event_date": "2026-05-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00167",
+    "event_date": "2026-05-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00168",
+    "event_date": "2026-05-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00169",
+    "event_date": "2026-06-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00170",
+    "event_date": "2026-06-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00171",
+    "event_date": "2026-06-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00172",
+    "event_date": "2026-06-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00173",
+    "event_date": "2026-06-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00174",
+    "event_date": "2026-06-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00175",
+    "event_date": "2026-06-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00176",
+    "event_date": "2026-06-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00177",
+    "event_date": "2026-07-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00178",
+    "event_date": "2026-07-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00179",
+    "event_date": "2026-07-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00180",
+    "event_date": "2026-07-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00181",
+    "event_date": "2026-07-19",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00182",
+    "event_date": "2026-07-23",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00183",
+    "event_date": "2026-07-27",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00184",
+    "event_date": "2026-07-31",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00185",
+    "event_date": "2026-08-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00186",
+    "event_date": "2026-08-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00187",
+    "event_date": "2026-08-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00188",
+    "event_date": "2026-08-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00189",
+    "event_date": "2026-08-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00190",
+    "event_date": "2026-08-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00191",
+    "event_date": "2026-08-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00192",
+    "event_date": "2026-09-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00193",
+    "event_date": "2026-09-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00194",
+    "event_date": "2026-09-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00195",
+    "event_date": "2026-09-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00196",
+    "event_date": "2026-09-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00197",
+    "event_date": "2026-09-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00198",
+    "event_date": "2026-09-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00199",
+    "event_date": "2026-09-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00200",
+    "event_date": "2026-10-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00201",
+    "event_date": "2026-10-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00202",
+    "event_date": "2026-10-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00203",
+    "event_date": "2026-10-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00204",
+    "event_date": "2026-10-19",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00205",
+    "event_date": "2026-10-23",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00206",
+    "event_date": "2026-10-27",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00207",
+    "event_date": "2026-10-31",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00208",
+    "event_date": "2026-11-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00209",
+    "event_date": "2026-11-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00210",
+    "event_date": "2026-11-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00211",
+    "event_date": "2026-11-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00212",
+    "event_date": "2026-11-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00213",
+    "event_date": "2026-11-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00214",
+    "event_date": "2026-11-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00215",
+    "event_date": "2026-12-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00216",
+    "event_date": "2026-12-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00217",
+    "event_date": "2026-12-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00218",
+    "event_date": "2026-12-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00219",
+    "event_date": "2026-12-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00220",
+    "event_date": "2026-12-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00221",
+    "event_date": "2026-12-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00222",
+    "event_date": "2026-12-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00223",
+    "event_date": "2027-01-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00224",
+    "event_date": "2027-01-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00225",
+    "event_date": "2027-01-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00226",
+    "event_date": "2027-01-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00227",
+    "event_date": "2027-01-19",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00228",
+    "event_date": "2027-01-23",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00229",
+    "event_date": "2027-01-27",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00230",
+    "event_date": "2027-01-31",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00231",
+    "event_date": "2027-02-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00232",
+    "event_date": "2027-02-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00233",
+    "event_date": "2027-02-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00234",
+    "event_date": "2027-02-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00235",
+    "event_date": "2027-02-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00236",
+    "event_date": "2027-02-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00237",
+    "event_date": "2027-02-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00238",
+    "event_date": "2027-03-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00239",
+    "event_date": "2027-03-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00240",
+    "event_date": "2027-03-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00241",
+    "event_date": "2027-03-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00242",
+    "event_date": "2027-03-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00243",
+    "event_date": "2027-03-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00244",
+    "event_date": "2027-03-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00245",
+    "event_date": "2027-04-01",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00246",
+    "event_date": "2027-04-05",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00247",
+    "event_date": "2027-04-09",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00248",
+    "event_date": "2027-04-13",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00249",
+    "event_date": "2027-04-17",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00250",
+    "event_date": "2027-04-21",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00251",
+    "event_date": "2027-04-25",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00252",
+    "event_date": "2027-04-29",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00253",
+    "event_date": "2027-05-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00254",
+    "event_date": "2027-05-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00255",
+    "event_date": "2027-05-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00256",
+    "event_date": "2027-05-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00257",
+    "event_date": "2027-05-19",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00258",
+    "event_date": "2027-05-23",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00259",
+    "event_date": "2027-05-27",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00260",
+    "event_date": "2027-05-31",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00261",
+    "event_date": "2027-06-04",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00262",
+    "event_date": "2027-06-08",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00263",
+    "event_date": "2027-06-12",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00264",
+    "event_date": "2027-06-16",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00265",
+    "event_date": "2027-06-20",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00266",
+    "event_date": "2027-06-24",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00267",
+    "event_date": "2027-06-28",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00268",
+    "event_date": "2027-07-02",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00269",
+    "event_date": "2027-07-06",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00270",
+    "event_date": "2027-07-10",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00271",
+    "event_date": "2027-07-14",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00272",
+    "event_date": "2027-07-18",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00273",
+    "event_date": "2027-07-22",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00274",
+    "event_date": "2027-07-26",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00275",
+    "event_date": "2027-07-30",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00276",
+    "event_date": "2027-08-03",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00277",
+    "event_date": "2027-08-07",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00278",
+    "event_date": "2027-08-11",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  },
+  {
+    "property_id": "PROP-00279",
+    "event_date": "2027-08-15",
+    "encumbrance_status": "CLEAR",
+    "source": "EC"
+  }
+]

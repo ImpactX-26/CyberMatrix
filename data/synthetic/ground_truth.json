@@ -1,0 +1,1955 @@
+[
+  {
+    "property_id": "PROP-00001",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00002",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00003",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00004",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00005",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00006",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00007",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00008",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00009",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00010",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00011",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00012",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00013",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00014",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00015",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00016",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00017",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00018",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00019",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00020",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00021",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00022",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00023",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00024",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00025",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00026",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00027",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00028",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00029",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00030",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00031",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00032",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00033",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00034",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00035",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00036",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00037",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00038",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00039",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00040",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00041",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00042",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00043",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00044",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00045",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00046",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00047",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00048",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00049",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00050",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00051",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00052",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00053",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00054",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00055",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00056",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00057",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00058",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00059",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00060",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00061",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00062",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00063",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00064",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00065",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00066",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00067",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00068",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00069",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00070",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00071",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00072",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00073",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00074",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00075",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00076",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00077",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00078",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00079",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00080",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00081",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00082",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00083",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00084",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00085",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00086",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00087",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00088",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00089",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00090",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00091",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00092",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00093",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00094",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00095",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00096",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00097",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00098",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00099",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00100",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00101",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00102",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00103",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00104",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00105",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00106",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00107",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00108",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00109",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00110",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00111",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00112",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00113",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00114",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00115",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00116",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00117",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00118",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00119",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00120",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00121",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00122",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00123",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00124",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00125",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00126",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00127",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00128",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00129",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00130",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00131",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00132",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00133",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00134",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00135",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00136",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00137",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00138",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00139",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00140",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00141",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00142",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00143",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00144",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00145",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00146",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00147",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00148",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00149",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00150",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00151",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00152",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00153",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00154",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00155",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00156",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00157",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00158",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00159",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00160",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00161",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00162",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00163",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00164",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00165",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00166",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00167",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00168",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00169",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00170",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00171",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00172",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00173",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00174",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00175",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00176",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00177",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00178",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00179",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00180",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00181",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00182",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00183",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00184",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00185",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00186",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00187",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00188",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00189",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00190",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00191",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00192",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00193",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00194",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00195",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00196",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00197",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00198",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00199",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00200",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00201",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00202",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00203",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00204",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00205",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00206",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00207",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00208",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00209",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00210",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00211",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00212",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00213",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00214",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00215",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00216",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00217",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00218",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00219",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00220",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00221",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00222",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00223",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00224",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00225",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00226",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00227",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00228",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00229",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00230",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00231",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00232",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00233",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00234",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00235",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00236",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00237",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00238",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00239",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00240",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00241",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00242",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00243",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00244",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00245",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00246",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00247",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00248",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00249",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00250",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00251",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00252",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00253",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00254",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00255",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00256",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00257",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00258",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00259",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00260",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00261",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00262",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00263",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00264",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00265",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00266",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00267",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00268",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00269",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00270",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00271",
+    "scenario": "REGISTRATION_MUTATION_MISMATCH",
+    "expected_priority": "HIGH",
+    "expected_finding": "Registration and mutation indicate different receiving parties",
+    "expected_next_check": "Verify underlying deed and mutation order"
+  },
+  {
+    "property_id": "PROP-00272",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00273",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00274",
+    "scenario": "EXTENT_INCONSISTENCY",
+    "expected_priority": "MEDIUM",
+    "expected_finding": "Recorded extent differs between RTC and registration",
+    "expected_next_check": "Verify survey sketch and registered extent"
+  },
+  {
+    "property_id": "PROP-00275",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00276",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00277",
+    "scenario": "OWNERSHIP_CHAIN_GAP",
+    "expected_priority": "HIGH",
+    "expected_finding": "Ownership transition lacks an intermediate supporting record",
+    "expected_next_check": "Verify missing transfer document"
+  },
+  {
+    "property_id": "PROP-00278",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  },
+  {
+    "property_id": "PROP-00279",
+    "scenario": "NORMAL",
+    "expected_priority": "LOW",
+    "expected_finding": "No material inconsistency detected",
+    "expected_next_check": "Routine record verification"
+  }
+]

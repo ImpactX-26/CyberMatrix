@@ -1,0 +1,2513 @@
+[
+  {
+    "property_id": "PROP-00001",
+    "mutation_number": "MR-01-01-001",
+    "mutation_date": "2024-07-31",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "40/1"
+  },
+  {
+    "property_id": "PROP-00002",
+    "mutation_number": "MR-01-01-002",
+    "mutation_date": "2024-08-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "41/2"
+  },
+  {
+    "property_id": "PROP-00003",
+    "mutation_number": "MR-01-01-003",
+    "mutation_date": "2024-08-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "42/3"
+  },
+  {
+    "property_id": "PROP-00004",
+    "mutation_number": "MR-01-02-001",
+    "mutation_date": "2024-08-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "43/1"
+  },
+  {
+    "property_id": "PROP-00005",
+    "mutation_number": "MR-01-02-002",
+    "mutation_date": "2024-08-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "44/2"
+  },
+  {
+    "property_id": "PROP-00006",
+    "mutation_number": "MR-01-02-003",
+    "mutation_date": "2024-08-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "45/3"
+  },
+  {
+    "property_id": "PROP-00007",
+    "mutation_number": "MR-01-03-001",
+    "mutation_date": "2024-08-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "46/1"
+  },
+  {
+    "property_id": "PROP-00008",
+    "mutation_number": "MR-01-03-002",
+    "mutation_date": "2024-08-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "47/2"
+  },
+  {
+    "property_id": "PROP-00009",
+    "mutation_number": "MR-01-03-003",
+    "mutation_date": "2024-09-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "48/3"
+  },
+  {
+    "property_id": "PROP-00010",
+    "mutation_number": "MR-02-01-001",
+    "mutation_date": "2024-09-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "47/1"
+  },
+  {
+    "property_id": "PROP-00011",
+    "mutation_number": "MR-02-01-002",
+    "mutation_date": "2024-09-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "48/2"
+  },
+  {
+    "property_id": "PROP-00012",
+    "mutation_number": "MR-02-01-003",
+    "mutation_date": "2024-09-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "49/3"
+  },
+  {
+    "property_id": "PROP-00013",
+    "mutation_number": "MR-02-02-001",
+    "mutation_date": "2024-09-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "50/1"
+  },
+  {
+    "property_id": "PROP-00014",
+    "mutation_number": "MR-02-02-002",
+    "mutation_date": "2024-09-21",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "51/2"
+  },
+  {
+    "property_id": "PROP-00015",
+    "mutation_number": "MR-02-02-003",
+    "mutation_date": "2024-09-25",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "52/3"
+  },
+  {
+    "property_id": "PROP-00016",
+    "mutation_number": "MR-02-03-001",
+    "mutation_date": "2024-09-29",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "53/1"
+  },
+  {
+    "property_id": "PROP-00017",
+    "mutation_number": "MR-02-03-002",
+    "mutation_date": "2024-10-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "54/2"
+  },
+  {
+    "property_id": "PROP-00018",
+    "mutation_number": "MR-02-03-003",
+    "mutation_date": "2024-10-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "55/3"
+  },
+  {
+    "property_id": "PROP-00019",
+    "mutation_number": "MR-03-01-001",
+    "mutation_date": "2024-10-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "54/1"
+  },
+  {
+    "property_id": "PROP-00020",
+    "mutation_number": "MR-03-01-002",
+    "mutation_date": "2024-10-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "55/2"
+  },
+  {
+    "property_id": "PROP-00021",
+    "mutation_number": "MR-03-01-003",
+    "mutation_date": "2024-10-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "56/3"
+  },
+  {
+    "property_id": "PROP-00022",
+    "mutation_number": "MR-03-02-001",
+    "mutation_date": "2024-10-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "57/1"
+  },
+  {
+    "property_id": "PROP-00023",
+    "mutation_number": "MR-03-02-002",
+    "mutation_date": "2024-10-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "58/2"
+  },
+  {
+    "property_id": "PROP-00024",
+    "mutation_number": "MR-03-02-003",
+    "mutation_date": "2024-10-31",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "59/3"
+  },
+  {
+    "property_id": "PROP-00025",
+    "mutation_number": "MR-03-03-001",
+    "mutation_date": "2024-11-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "60/1"
+  },
+  {
+    "property_id": "PROP-00026",
+    "mutation_number": "MR-03-03-002",
+    "mutation_date": "2024-11-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "61/2"
+  },
+  {
+    "property_id": "PROP-00027",
+    "mutation_number": "MR-03-03-003",
+    "mutation_date": "2024-11-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_D",
+    "survey_number": "62/3"
+  },
+  {
+    "property_id": "PROP-00028",
+    "mutation_number": "MR-04-01-001",
+    "mutation_date": "2024-11-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "61/1"
+  },
+  {
+    "property_id": "PROP-00029",
+    "mutation_number": "MR-04-01-002",
+    "mutation_date": "2024-11-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "62/2"
+  },
+  {
+    "property_id": "PROP-00030",
+    "mutation_number": "MR-04-01-003",
+    "mutation_date": "2024-11-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "63/3"
+  },
+  {
+    "property_id": "PROP-00031",
+    "mutation_number": "MR-04-02-001",
+    "mutation_date": "2024-11-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "64/1"
+  },
+  {
+    "property_id": "PROP-00032",
+    "mutation_number": "MR-04-02-002",
+    "mutation_date": "2024-12-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "65/2"
+  },
+  {
+    "property_id": "PROP-00033",
+    "mutation_number": "MR-04-02-003",
+    "mutation_date": "2024-12-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "66/3"
+  },
+  {
+    "property_id": "PROP-00034",
+    "mutation_number": "MR-04-03-001",
+    "mutation_date": "2024-12-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "67/1"
+  },
+  {
+    "property_id": "PROP-00035",
+    "mutation_number": "MR-04-03-002",
+    "mutation_date": "2024-12-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "68/2"
+  },
+  {
+    "property_id": "PROP-00036",
+    "mutation_number": "MR-04-03-003",
+    "mutation_date": "2024-12-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "69/3"
+  },
+  {
+    "property_id": "PROP-00037",
+    "mutation_number": "MR-05-01-001",
+    "mutation_date": "2024-12-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "68/1"
+  },
+  {
+    "property_id": "PROP-00038",
+    "mutation_number": "MR-05-01-002",
+    "mutation_date": "2024-12-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "69/2"
+  },
+  {
+    "property_id": "PROP-00039",
+    "mutation_number": "MR-05-01-003",
+    "mutation_date": "2024-12-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "70/3"
+  },
+  {
+    "property_id": "PROP-00040",
+    "mutation_number": "MR-05-02-001",
+    "mutation_date": "2025-01-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "71/1"
+  },
+  {
+    "property_id": "PROP-00041",
+    "mutation_number": "MR-05-02-002",
+    "mutation_date": "2025-01-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "72/2"
+  },
+  {
+    "property_id": "PROP-00042",
+    "mutation_number": "MR-05-02-003",
+    "mutation_date": "2025-01-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "73/3"
+  },
+  {
+    "property_id": "PROP-00043",
+    "mutation_number": "MR-05-03-001",
+    "mutation_date": "2025-01-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "74/1"
+  },
+  {
+    "property_id": "PROP-00044",
+    "mutation_number": "MR-05-03-002",
+    "mutation_date": "2025-01-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "75/2"
+  },
+  {
+    "property_id": "PROP-00045",
+    "mutation_number": "MR-05-03-003",
+    "mutation_date": "2025-01-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "76/3"
+  },
+  {
+    "property_id": "PROP-00046",
+    "mutation_number": "MR-06-01-001",
+    "mutation_date": "2025-01-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "75/1"
+  },
+  {
+    "property_id": "PROP-00047",
+    "mutation_number": "MR-06-01-002",
+    "mutation_date": "2025-01-31",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "76/2"
+  },
+  {
+    "property_id": "PROP-00048",
+    "mutation_number": "MR-06-01-003",
+    "mutation_date": "2025-02-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "77/3"
+  },
+  {
+    "property_id": "PROP-00049",
+    "mutation_number": "MR-06-02-001",
+    "mutation_date": "2025-02-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "78/1"
+  },
+  {
+    "property_id": "PROP-00050",
+    "mutation_number": "MR-06-02-002",
+    "mutation_date": "2025-02-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "79/2"
+  },
+  {
+    "property_id": "PROP-00051",
+    "mutation_number": "MR-06-02-003",
+    "mutation_date": "2025-02-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "80/3"
+  },
+  {
+    "property_id": "PROP-00052",
+    "mutation_number": "MR-06-03-001",
+    "mutation_date": "2025-02-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "81/1"
+  },
+  {
+    "property_id": "PROP-00053",
+    "mutation_number": "MR-06-03-002",
+    "mutation_date": "2025-02-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "82/2"
+  },
+  {
+    "property_id": "PROP-00054",
+    "mutation_number": "MR-06-03-003",
+    "mutation_date": "2025-02-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "83/3"
+  },
+  {
+    "property_id": "PROP-00055",
+    "mutation_number": "MR-07-01-001",
+    "mutation_date": "2025-03-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "82/1"
+  },
+  {
+    "property_id": "PROP-00056",
+    "mutation_number": "MR-07-01-002",
+    "mutation_date": "2025-03-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "83/2"
+  },
+  {
+    "property_id": "PROP-00057",
+    "mutation_number": "MR-07-01-003",
+    "mutation_date": "2025-03-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "84/3"
+  },
+  {
+    "property_id": "PROP-00058",
+    "mutation_number": "MR-07-02-001",
+    "mutation_date": "2025-03-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "85/1"
+  },
+  {
+    "property_id": "PROP-00059",
+    "mutation_number": "MR-07-02-002",
+    "mutation_date": "2025-03-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "86/2"
+  },
+  {
+    "property_id": "PROP-00060",
+    "mutation_number": "MR-07-02-003",
+    "mutation_date": "2025-03-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "87/3"
+  },
+  {
+    "property_id": "PROP-00061",
+    "mutation_number": "MR-07-03-001",
+    "mutation_date": "2025-03-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "88/1"
+  },
+  {
+    "property_id": "PROP-00062",
+    "mutation_number": "MR-07-03-002",
+    "mutation_date": "2025-04-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "89/2"
+  },
+  {
+    "property_id": "PROP-00063",
+    "mutation_number": "MR-07-03-003",
+    "mutation_date": "2025-04-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "90/3"
+  },
+  {
+    "property_id": "PROP-00064",
+    "mutation_number": "MR-08-01-001",
+    "mutation_date": "2025-04-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "89/1"
+  },
+  {
+    "property_id": "PROP-00065",
+    "mutation_number": "MR-08-01-002",
+    "mutation_date": "2025-04-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "90/2"
+  },
+  {
+    "property_id": "PROP-00066",
+    "mutation_number": "MR-08-01-003",
+    "mutation_date": "2025-04-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "91/3"
+  },
+  {
+    "property_id": "PROP-00067",
+    "mutation_number": "MR-08-02-001",
+    "mutation_date": "2025-04-21",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "92/1"
+  },
+  {
+    "property_id": "PROP-00068",
+    "mutation_number": "MR-08-02-002",
+    "mutation_date": "2025-04-25",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "93/2"
+  },
+  {
+    "property_id": "PROP-00069",
+    "mutation_number": "MR-08-02-003",
+    "mutation_date": "2025-04-29",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "94/3"
+  },
+  {
+    "property_id": "PROP-00070",
+    "mutation_number": "MR-08-03-001",
+    "mutation_date": "2025-05-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "95/1"
+  },
+  {
+    "property_id": "PROP-00071",
+    "mutation_number": "MR-08-03-002",
+    "mutation_date": "2025-05-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "96/2"
+  },
+  {
+    "property_id": "PROP-00072",
+    "mutation_number": "MR-08-03-003",
+    "mutation_date": "2025-05-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "97/3"
+  },
+  {
+    "property_id": "PROP-00073",
+    "mutation_number": "MR-09-01-001",
+    "mutation_date": "2025-05-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "96/1"
+  },
+  {
+    "property_id": "PROP-00074",
+    "mutation_number": "MR-09-01-002",
+    "mutation_date": "2025-05-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "97/2"
+  },
+  {
+    "property_id": "PROP-00075",
+    "mutation_number": "MR-09-01-003",
+    "mutation_date": "2025-05-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "98/3"
+  },
+  {
+    "property_id": "PROP-00076",
+    "mutation_number": "MR-09-02-001",
+    "mutation_date": "2025-05-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "99/1"
+  },
+  {
+    "property_id": "PROP-00077",
+    "mutation_number": "MR-09-02-002",
+    "mutation_date": "2025-05-31",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "40/2"
+  },
+  {
+    "property_id": "PROP-00078",
+    "mutation_number": "MR-09-02-003",
+    "mutation_date": "2025-06-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "41/3"
+  },
+  {
+    "property_id": "PROP-00079",
+    "mutation_number": "MR-09-03-001",
+    "mutation_date": "2025-06-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "42/1"
+  },
+  {
+    "property_id": "PROP-00080",
+    "mutation_number": "MR-09-03-002",
+    "mutation_date": "2025-06-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "43/2"
+  },
+  {
+    "property_id": "PROP-00081",
+    "mutation_number": "MR-09-03-003",
+    "mutation_date": "2025-06-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "44/3"
+  },
+  {
+    "property_id": "PROP-00082",
+    "mutation_number": "MR-10-01-001",
+    "mutation_date": "2025-06-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "43/1"
+  },
+  {
+    "property_id": "PROP-00083",
+    "mutation_number": "MR-10-01-002",
+    "mutation_date": "2025-06-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "44/2"
+  },
+  {
+    "property_id": "PROP-00084",
+    "mutation_number": "MR-10-01-003",
+    "mutation_date": "2025-06-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "45/3"
+  },
+  {
+    "property_id": "PROP-00085",
+    "mutation_number": "MR-10-02-001",
+    "mutation_date": "2025-07-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "46/1"
+  },
+  {
+    "property_id": "PROP-00086",
+    "mutation_number": "MR-10-02-002",
+    "mutation_date": "2025-07-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "47/2"
+  },
+  {
+    "property_id": "PROP-00087",
+    "mutation_number": "MR-10-02-003",
+    "mutation_date": "2025-07-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "48/3"
+  },
+  {
+    "property_id": "PROP-00088",
+    "mutation_number": "MR-10-03-001",
+    "mutation_date": "2025-07-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "49/1"
+  },
+  {
+    "property_id": "PROP-00089",
+    "mutation_number": "MR-10-03-002",
+    "mutation_date": "2025-07-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "50/2"
+  },
+  {
+    "property_id": "PROP-00090",
+    "mutation_number": "MR-10-03-003",
+    "mutation_date": "2025-07-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "51/3"
+  },
+  {
+    "property_id": "PROP-00091",
+    "mutation_number": "MR-11-01-001",
+    "mutation_date": "2025-07-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "50/1"
+  },
+  {
+    "property_id": "PROP-00092",
+    "mutation_number": "MR-11-01-002",
+    "mutation_date": "2025-07-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "51/2"
+  },
+  {
+    "property_id": "PROP-00093",
+    "mutation_number": "MR-11-01-003",
+    "mutation_date": "2025-08-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "52/3"
+  },
+  {
+    "property_id": "PROP-00094",
+    "mutation_number": "MR-11-02-001",
+    "mutation_date": "2025-08-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "53/1"
+  },
+  {
+    "property_id": "PROP-00095",
+    "mutation_number": "MR-11-02-002",
+    "mutation_date": "2025-08-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "54/2"
+  },
+  {
+    "property_id": "PROP-00096",
+    "mutation_number": "MR-11-02-003",
+    "mutation_date": "2025-08-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "55/3"
+  },
+  {
+    "property_id": "PROP-00097",
+    "mutation_number": "MR-11-03-001",
+    "mutation_date": "2025-08-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "56/1"
+  },
+  {
+    "property_id": "PROP-00098",
+    "mutation_number": "MR-11-03-002",
+    "mutation_date": "2025-08-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "57/2"
+  },
+  {
+    "property_id": "PROP-00099",
+    "mutation_number": "MR-11-03-003",
+    "mutation_date": "2025-08-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "58/3"
+  },
+  {
+    "property_id": "PROP-00100",
+    "mutation_number": "MR-12-01-001",
+    "mutation_date": "2025-08-31",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "57/1"
+  },
+  {
+    "property_id": "PROP-00101",
+    "mutation_number": "MR-12-01-002",
+    "mutation_date": "2025-09-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "58/2"
+  },
+  {
+    "property_id": "PROP-00102",
+    "mutation_number": "MR-12-01-003",
+    "mutation_date": "2025-09-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "59/3"
+  },
+  {
+    "property_id": "PROP-00103",
+    "mutation_number": "MR-12-02-001",
+    "mutation_date": "2025-09-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "60/1"
+  },
+  {
+    "property_id": "PROP-00104",
+    "mutation_number": "MR-12-02-002",
+    "mutation_date": "2025-09-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "61/2"
+  },
+  {
+    "property_id": "PROP-00105",
+    "mutation_number": "MR-12-02-003",
+    "mutation_date": "2025-09-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "62/3"
+  },
+  {
+    "property_id": "PROP-00106",
+    "mutation_number": "MR-12-03-001",
+    "mutation_date": "2025-09-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "63/1"
+  },
+  {
+    "property_id": "PROP-00107",
+    "mutation_number": "MR-12-03-002",
+    "mutation_date": "2025-09-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "64/2"
+  },
+  {
+    "property_id": "PROP-00108",
+    "mutation_number": "MR-12-03-003",
+    "mutation_date": "2025-10-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "65/3"
+  },
+  {
+    "property_id": "PROP-00109",
+    "mutation_number": "MR-13-01-001",
+    "mutation_date": "2025-10-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "64/1"
+  },
+  {
+    "property_id": "PROP-00110",
+    "mutation_number": "MR-13-01-002",
+    "mutation_date": "2025-10-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "65/2"
+  },
+  {
+    "property_id": "PROP-00111",
+    "mutation_number": "MR-13-01-003",
+    "mutation_date": "2025-10-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "66/3"
+  },
+  {
+    "property_id": "PROP-00112",
+    "mutation_number": "MR-13-02-001",
+    "mutation_date": "2025-10-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "67/1"
+  },
+  {
+    "property_id": "PROP-00113",
+    "mutation_number": "MR-13-02-002",
+    "mutation_date": "2025-10-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "68/2"
+  },
+  {
+    "property_id": "PROP-00114",
+    "mutation_number": "MR-13-02-003",
+    "mutation_date": "2025-10-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "69/3"
+  },
+  {
+    "property_id": "PROP-00115",
+    "mutation_number": "MR-13-03-001",
+    "mutation_date": "2025-10-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "70/1"
+  },
+  {
+    "property_id": "PROP-00116",
+    "mutation_number": "MR-13-03-002",
+    "mutation_date": "2025-11-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "71/2"
+  },
+  {
+    "property_id": "PROP-00117",
+    "mutation_number": "MR-13-03-003",
+    "mutation_date": "2025-11-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "72/3"
+  },
+  {
+    "property_id": "PROP-00118",
+    "mutation_number": "MR-14-01-001",
+    "mutation_date": "2025-11-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "71/1"
+  },
+  {
+    "property_id": "PROP-00119",
+    "mutation_number": "MR-14-01-002",
+    "mutation_date": "2025-11-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_D",
+    "survey_number": "72/2"
+  },
+  {
+    "property_id": "PROP-00120",
+    "mutation_number": "MR-14-01-003",
+    "mutation_date": "2025-11-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "73/3"
+  },
+  {
+    "property_id": "PROP-00121",
+    "mutation_number": "MR-14-02-001",
+    "mutation_date": "2025-11-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_D",
+    "survey_number": "74/1"
+  },
+  {
+    "property_id": "PROP-00122",
+    "mutation_number": "MR-14-02-002",
+    "mutation_date": "2025-11-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "75/2"
+  },
+  {
+    "property_id": "PROP-00123",
+    "mutation_number": "MR-14-02-003",
+    "mutation_date": "2025-12-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "76/3"
+  },
+  {
+    "property_id": "PROP-00124",
+    "mutation_number": "MR-14-03-001",
+    "mutation_date": "2025-12-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "77/1"
+  },
+  {
+    "property_id": "PROP-00125",
+    "mutation_number": "MR-14-03-002",
+    "mutation_date": "2025-12-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "78/2"
+  },
+  {
+    "property_id": "PROP-00126",
+    "mutation_number": "MR-14-03-003",
+    "mutation_date": "2025-12-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "79/3"
+  },
+  {
+    "property_id": "PROP-00127",
+    "mutation_number": "MR-15-01-001",
+    "mutation_date": "2025-12-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "78/1"
+  },
+  {
+    "property_id": "PROP-00128",
+    "mutation_number": "MR-15-01-002",
+    "mutation_date": "2025-12-21",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "79/2"
+  },
+  {
+    "property_id": "PROP-00129",
+    "mutation_number": "MR-15-01-003",
+    "mutation_date": "2025-12-25",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "80/3"
+  },
+  {
+    "property_id": "PROP-00130",
+    "mutation_number": "MR-15-02-001",
+    "mutation_date": "2025-12-29",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "81/1"
+  },
+  {
+    "property_id": "PROP-00131",
+    "mutation_number": "MR-15-02-002",
+    "mutation_date": "2026-01-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "82/2"
+  },
+  {
+    "property_id": "PROP-00132",
+    "mutation_number": "MR-15-02-003",
+    "mutation_date": "2026-01-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "83/3"
+  },
+  {
+    "property_id": "PROP-00133",
+    "mutation_number": "MR-15-03-001",
+    "mutation_date": "2026-01-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "84/1"
+  },
+  {
+    "property_id": "PROP-00134",
+    "mutation_number": "MR-15-03-002",
+    "mutation_date": "2026-01-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "85/2"
+  },
+  {
+    "property_id": "PROP-00135",
+    "mutation_number": "MR-15-03-003",
+    "mutation_date": "2026-01-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "86/3"
+  },
+  {
+    "property_id": "PROP-00136",
+    "mutation_number": "MR-16-01-001",
+    "mutation_date": "2026-01-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "85/1"
+  },
+  {
+    "property_id": "PROP-00137",
+    "mutation_number": "MR-16-01-002",
+    "mutation_date": "2026-01-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "86/2"
+  },
+  {
+    "property_id": "PROP-00138",
+    "mutation_number": "MR-16-01-003",
+    "mutation_date": "2026-01-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "87/3"
+  },
+  {
+    "property_id": "PROP-00139",
+    "mutation_number": "MR-16-02-001",
+    "mutation_date": "2026-02-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "88/1"
+  },
+  {
+    "property_id": "PROP-00140",
+    "mutation_number": "MR-16-02-002",
+    "mutation_date": "2026-02-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "89/2"
+  },
+  {
+    "property_id": "PROP-00141",
+    "mutation_number": "MR-16-02-003",
+    "mutation_date": "2026-02-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "90/3"
+  },
+  {
+    "property_id": "PROP-00142",
+    "mutation_number": "MR-16-03-001",
+    "mutation_date": "2026-02-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "91/1"
+  },
+  {
+    "property_id": "PROP-00143",
+    "mutation_number": "MR-16-03-002",
+    "mutation_date": "2026-02-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "92/2"
+  },
+  {
+    "property_id": "PROP-00144",
+    "mutation_number": "MR-16-03-003",
+    "mutation_date": "2026-02-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "93/3"
+  },
+  {
+    "property_id": "PROP-00145",
+    "mutation_number": "MR-17-01-001",
+    "mutation_date": "2026-02-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "92/1"
+  },
+  {
+    "property_id": "PROP-00146",
+    "mutation_number": "MR-17-01-002",
+    "mutation_date": "2026-03-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "93/2"
+  },
+  {
+    "property_id": "PROP-00147",
+    "mutation_number": "MR-17-01-003",
+    "mutation_date": "2026-03-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "94/3"
+  },
+  {
+    "property_id": "PROP-00148",
+    "mutation_number": "MR-17-02-001",
+    "mutation_date": "2026-03-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "95/1"
+  },
+  {
+    "property_id": "PROP-00149",
+    "mutation_number": "MR-17-02-002",
+    "mutation_date": "2026-03-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "96/2"
+  },
+  {
+    "property_id": "PROP-00150",
+    "mutation_number": "MR-17-02-003",
+    "mutation_date": "2026-03-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "97/3"
+  },
+  {
+    "property_id": "PROP-00151",
+    "mutation_number": "MR-17-03-001",
+    "mutation_date": "2026-03-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "98/1"
+  },
+  {
+    "property_id": "PROP-00152",
+    "mutation_number": "MR-17-03-002",
+    "mutation_date": "2026-03-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "99/2"
+  },
+  {
+    "property_id": "PROP-00153",
+    "mutation_number": "MR-17-03-003",
+    "mutation_date": "2026-03-31",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "40/3"
+  },
+  {
+    "property_id": "PROP-00154",
+    "mutation_number": "MR-18-01-001",
+    "mutation_date": "2026-04-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "99/1"
+  },
+  {
+    "property_id": "PROP-00155",
+    "mutation_number": "MR-18-01-002",
+    "mutation_date": "2026-04-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "40/2"
+  },
+  {
+    "property_id": "PROP-00156",
+    "mutation_number": "MR-18-01-003",
+    "mutation_date": "2026-04-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "41/3"
+  },
+  {
+    "property_id": "PROP-00157",
+    "mutation_number": "MR-18-02-001",
+    "mutation_date": "2026-04-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "42/1"
+  },
+  {
+    "property_id": "PROP-00158",
+    "mutation_number": "MR-18-02-002",
+    "mutation_date": "2026-04-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "43/2"
+  },
+  {
+    "property_id": "PROP-00159",
+    "mutation_number": "MR-18-02-003",
+    "mutation_date": "2026-04-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "44/3"
+  },
+  {
+    "property_id": "PROP-00160",
+    "mutation_number": "MR-18-03-001",
+    "mutation_date": "2026-04-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "45/1"
+  },
+  {
+    "property_id": "PROP-00161",
+    "mutation_number": "MR-18-03-002",
+    "mutation_date": "2026-05-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "46/2"
+  },
+  {
+    "property_id": "PROP-00162",
+    "mutation_number": "MR-18-03-003",
+    "mutation_date": "2026-05-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "47/3"
+  },
+  {
+    "property_id": "PROP-00163",
+    "mutation_number": "MR-19-01-001",
+    "mutation_date": "2026-05-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "46/1"
+  },
+  {
+    "property_id": "PROP-00164",
+    "mutation_number": "MR-19-01-002",
+    "mutation_date": "2026-05-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "47/2"
+  },
+  {
+    "property_id": "PROP-00165",
+    "mutation_number": "MR-19-01-003",
+    "mutation_date": "2026-05-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "48/3"
+  },
+  {
+    "property_id": "PROP-00166",
+    "mutation_number": "MR-19-02-001",
+    "mutation_date": "2026-05-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "49/1"
+  },
+  {
+    "property_id": "PROP-00167",
+    "mutation_number": "MR-19-02-002",
+    "mutation_date": "2026-05-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "50/2"
+  },
+  {
+    "property_id": "PROP-00168",
+    "mutation_number": "MR-19-02-003",
+    "mutation_date": "2026-05-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "51/3"
+  },
+  {
+    "property_id": "PROP-00169",
+    "mutation_number": "MR-19-03-001",
+    "mutation_date": "2026-06-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "52/1"
+  },
+  {
+    "property_id": "PROP-00170",
+    "mutation_number": "MR-19-03-002",
+    "mutation_date": "2026-06-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "53/2"
+  },
+  {
+    "property_id": "PROP-00171",
+    "mutation_number": "MR-19-03-003",
+    "mutation_date": "2026-06-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "54/3"
+  },
+  {
+    "property_id": "PROP-00172",
+    "mutation_number": "MR-20-01-001",
+    "mutation_date": "2026-06-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "53/1"
+  },
+  {
+    "property_id": "PROP-00173",
+    "mutation_number": "MR-20-01-002",
+    "mutation_date": "2026-06-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "54/2"
+  },
+  {
+    "property_id": "PROP-00174",
+    "mutation_number": "MR-20-01-003",
+    "mutation_date": "2026-06-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "55/3"
+  },
+  {
+    "property_id": "PROP-00175",
+    "mutation_number": "MR-20-02-001",
+    "mutation_date": "2026-06-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "56/1"
+  },
+  {
+    "property_id": "PROP-00176",
+    "mutation_number": "MR-20-02-002",
+    "mutation_date": "2026-07-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "57/2"
+  },
+  {
+    "property_id": "PROP-00177",
+    "mutation_number": "MR-20-02-003",
+    "mutation_date": "2026-07-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_D",
+    "survey_number": "58/3"
+  },
+  {
+    "property_id": "PROP-00178",
+    "mutation_number": "MR-20-03-001",
+    "mutation_date": "2026-07-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "59/1"
+  },
+  {
+    "property_id": "PROP-00179",
+    "mutation_number": "MR-20-03-002",
+    "mutation_date": "2026-07-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_D",
+    "survey_number": "60/2"
+  },
+  {
+    "property_id": "PROP-00180",
+    "mutation_number": "MR-20-03-003",
+    "mutation_date": "2026-07-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "61/3"
+  },
+  {
+    "property_id": "PROP-00181",
+    "mutation_number": "MR-21-01-001",
+    "mutation_date": "2026-07-21",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "60/1"
+  },
+  {
+    "property_id": "PROP-00182",
+    "mutation_number": "MR-21-01-002",
+    "mutation_date": "2026-07-25",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "61/2"
+  },
+  {
+    "property_id": "PROP-00183",
+    "mutation_number": "MR-21-01-003",
+    "mutation_date": "2026-07-29",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "62/3"
+  },
+  {
+    "property_id": "PROP-00184",
+    "mutation_number": "MR-21-02-001",
+    "mutation_date": "2026-08-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "63/1"
+  },
+  {
+    "property_id": "PROP-00185",
+    "mutation_number": "MR-21-02-002",
+    "mutation_date": "2026-08-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "64/2"
+  },
+  {
+    "property_id": "PROP-00186",
+    "mutation_number": "MR-21-02-003",
+    "mutation_date": "2026-08-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "65/3"
+  },
+  {
+    "property_id": "PROP-00187",
+    "mutation_number": "MR-21-03-001",
+    "mutation_date": "2026-08-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "66/1"
+  },
+  {
+    "property_id": "PROP-00188",
+    "mutation_number": "MR-21-03-002",
+    "mutation_date": "2026-08-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "67/2"
+  },
+  {
+    "property_id": "PROP-00189",
+    "mutation_number": "MR-21-03-003",
+    "mutation_date": "2026-08-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "68/3"
+  },
+  {
+    "property_id": "PROP-00190",
+    "mutation_number": "MR-22-01-001",
+    "mutation_date": "2026-08-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "67/1"
+  },
+  {
+    "property_id": "PROP-00191",
+    "mutation_number": "MR-22-01-002",
+    "mutation_date": "2026-08-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "68/2"
+  },
+  {
+    "property_id": "PROP-00192",
+    "mutation_number": "MR-22-01-003",
+    "mutation_date": "2026-09-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "69/3"
+  },
+  {
+    "property_id": "PROP-00193",
+    "mutation_number": "MR-22-02-001",
+    "mutation_date": "2026-09-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "70/1"
+  },
+  {
+    "property_id": "PROP-00194",
+    "mutation_number": "MR-22-02-002",
+    "mutation_date": "2026-09-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "71/2"
+  },
+  {
+    "property_id": "PROP-00195",
+    "mutation_number": "MR-22-02-003",
+    "mutation_date": "2026-09-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "72/3"
+  },
+  {
+    "property_id": "PROP-00196",
+    "mutation_number": "MR-22-03-001",
+    "mutation_date": "2026-09-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "73/1"
+  },
+  {
+    "property_id": "PROP-00197",
+    "mutation_number": "MR-22-03-002",
+    "mutation_date": "2026-09-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "74/2"
+  },
+  {
+    "property_id": "PROP-00198",
+    "mutation_number": "MR-22-03-003",
+    "mutation_date": "2026-09-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "75/3"
+  },
+  {
+    "property_id": "PROP-00199",
+    "mutation_number": "MR-23-01-001",
+    "mutation_date": "2026-10-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "74/1"
+  },
+  {
+    "property_id": "PROP-00200",
+    "mutation_number": "MR-23-01-002",
+    "mutation_date": "2026-10-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "75/2"
+  },
+  {
+    "property_id": "PROP-00201",
+    "mutation_number": "MR-23-01-003",
+    "mutation_date": "2026-10-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "76/3"
+  },
+  {
+    "property_id": "PROP-00202",
+    "mutation_number": "MR-23-02-001",
+    "mutation_date": "2026-10-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "77/1"
+  },
+  {
+    "property_id": "PROP-00203",
+    "mutation_number": "MR-23-02-002",
+    "mutation_date": "2026-10-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "78/2"
+  },
+  {
+    "property_id": "PROP-00204",
+    "mutation_number": "MR-23-02-003",
+    "mutation_date": "2026-10-21",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "79/3"
+  },
+  {
+    "property_id": "PROP-00205",
+    "mutation_number": "MR-23-03-001",
+    "mutation_date": "2026-10-25",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "80/1"
+  },
+  {
+    "property_id": "PROP-00206",
+    "mutation_number": "MR-23-03-002",
+    "mutation_date": "2026-10-29",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "81/2"
+  },
+  {
+    "property_id": "PROP-00207",
+    "mutation_number": "MR-23-03-003",
+    "mutation_date": "2026-11-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "82/3"
+  },
+  {
+    "property_id": "PROP-00208",
+    "mutation_number": "MR-24-01-001",
+    "mutation_date": "2026-11-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "81/1"
+  },
+  {
+    "property_id": "PROP-00209",
+    "mutation_number": "MR-24-01-002",
+    "mutation_date": "2026-11-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "82/2"
+  },
+  {
+    "property_id": "PROP-00210",
+    "mutation_number": "MR-24-01-003",
+    "mutation_date": "2026-11-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "83/3"
+  },
+  {
+    "property_id": "PROP-00211",
+    "mutation_number": "MR-24-02-001",
+    "mutation_date": "2026-11-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "84/1"
+  },
+  {
+    "property_id": "PROP-00212",
+    "mutation_number": "MR-24-02-002",
+    "mutation_date": "2026-11-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "85/2"
+  },
+  {
+    "property_id": "PROP-00213",
+    "mutation_number": "MR-24-02-003",
+    "mutation_date": "2026-11-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "86/3"
+  },
+  {
+    "property_id": "PROP-00214",
+    "mutation_number": "MR-24-03-001",
+    "mutation_date": "2026-11-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "87/1"
+  },
+  {
+    "property_id": "PROP-00215",
+    "mutation_number": "MR-24-03-002",
+    "mutation_date": "2026-12-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "88/2"
+  },
+  {
+    "property_id": "PROP-00216",
+    "mutation_number": "MR-24-03-003",
+    "mutation_date": "2026-12-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "89/3"
+  },
+  {
+    "property_id": "PROP-00217",
+    "mutation_number": "MR-25-01-001",
+    "mutation_date": "2026-12-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "88/1"
+  },
+  {
+    "property_id": "PROP-00218",
+    "mutation_number": "MR-25-01-002",
+    "mutation_date": "2026-12-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "89/2"
+  },
+  {
+    "property_id": "PROP-00219",
+    "mutation_number": "MR-25-01-003",
+    "mutation_date": "2026-12-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "90/3"
+  },
+  {
+    "property_id": "PROP-00220",
+    "mutation_number": "MR-25-02-001",
+    "mutation_date": "2026-12-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "91/1"
+  },
+  {
+    "property_id": "PROP-00221",
+    "mutation_number": "MR-25-02-002",
+    "mutation_date": "2026-12-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "92/2"
+  },
+  {
+    "property_id": "PROP-00222",
+    "mutation_number": "MR-25-02-003",
+    "mutation_date": "2027-01-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "93/3"
+  },
+  {
+    "property_id": "PROP-00223",
+    "mutation_number": "MR-25-03-001",
+    "mutation_date": "2027-01-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "94/1"
+  },
+  {
+    "property_id": "PROP-00224",
+    "mutation_number": "MR-25-03-002",
+    "mutation_date": "2027-01-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "95/2"
+  },
+  {
+    "property_id": "PROP-00225",
+    "mutation_number": "MR-25-03-003",
+    "mutation_date": "2027-01-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "96/3"
+  },
+  {
+    "property_id": "PROP-00226",
+    "mutation_number": "MR-26-01-001",
+    "mutation_date": "2027-01-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "95/1"
+  },
+  {
+    "property_id": "PROP-00227",
+    "mutation_number": "MR-26-01-002",
+    "mutation_date": "2027-01-21",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "96/2"
+  },
+  {
+    "property_id": "PROP-00228",
+    "mutation_number": "MR-26-01-003",
+    "mutation_date": "2027-01-25",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "97/3"
+  },
+  {
+    "property_id": "PROP-00229",
+    "mutation_number": "MR-26-02-001",
+    "mutation_date": "2027-01-29",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "98/1"
+  },
+  {
+    "property_id": "PROP-00230",
+    "mutation_number": "MR-26-02-002",
+    "mutation_date": "2027-02-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "99/2"
+  },
+  {
+    "property_id": "PROP-00231",
+    "mutation_number": "MR-26-02-003",
+    "mutation_date": "2027-02-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "40/3"
+  },
+  {
+    "property_id": "PROP-00232",
+    "mutation_number": "MR-26-03-001",
+    "mutation_date": "2027-02-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "41/1"
+  },
+  {
+    "property_id": "PROP-00233",
+    "mutation_number": "MR-26-03-002",
+    "mutation_date": "2027-02-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "42/2"
+  },
+  {
+    "property_id": "PROP-00234",
+    "mutation_number": "MR-26-03-003",
+    "mutation_date": "2027-02-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "43/3"
+  },
+  {
+    "property_id": "PROP-00235",
+    "mutation_number": "MR-27-01-001",
+    "mutation_date": "2027-02-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "42/1"
+  },
+  {
+    "property_id": "PROP-00236",
+    "mutation_number": "MR-27-01-002",
+    "mutation_date": "2027-02-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "43/2"
+  },
+  {
+    "property_id": "PROP-00237",
+    "mutation_number": "MR-27-01-003",
+    "mutation_date": "2027-03-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "44/3"
+  },
+  {
+    "property_id": "PROP-00238",
+    "mutation_number": "MR-27-02-001",
+    "mutation_date": "2027-03-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "45/1"
+  },
+  {
+    "property_id": "PROP-00239",
+    "mutation_number": "MR-27-02-002",
+    "mutation_date": "2027-03-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "46/2"
+  },
+  {
+    "property_id": "PROP-00240",
+    "mutation_number": "MR-27-02-003",
+    "mutation_date": "2027-03-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "47/3"
+  },
+  {
+    "property_id": "PROP-00241",
+    "mutation_number": "MR-27-03-001",
+    "mutation_date": "2027-03-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_D",
+    "survey_number": "48/1"
+  },
+  {
+    "property_id": "PROP-00242",
+    "mutation_number": "MR-27-03-002",
+    "mutation_date": "2027-03-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "49/2"
+  },
+  {
+    "property_id": "PROP-00243",
+    "mutation_number": "MR-27-03-003",
+    "mutation_date": "2027-03-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "50/3"
+  },
+  {
+    "property_id": "PROP-00244",
+    "mutation_number": "MR-28-01-001",
+    "mutation_date": "2027-03-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_D",
+    "new_owner": "Owner_E",
+    "survey_number": "49/1"
+  },
+  {
+    "property_id": "PROP-00245",
+    "mutation_number": "MR-28-01-002",
+    "mutation_date": "2027-04-03",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "50/2"
+  },
+  {
+    "property_id": "PROP-00246",
+    "mutation_number": "MR-28-01-003",
+    "mutation_date": "2027-04-07",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "51/3"
+  },
+  {
+    "property_id": "PROP-00247",
+    "mutation_number": "MR-28-02-001",
+    "mutation_date": "2027-04-11",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "52/1"
+  },
+  {
+    "property_id": "PROP-00248",
+    "mutation_number": "MR-28-02-002",
+    "mutation_date": "2027-04-15",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "53/2"
+  },
+  {
+    "property_id": "PROP-00249",
+    "mutation_number": "MR-28-02-003",
+    "mutation_date": "2027-04-19",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "54/3"
+  },
+  {
+    "property_id": "PROP-00250",
+    "mutation_number": "MR-28-03-001",
+    "mutation_date": "2027-04-23",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "55/1"
+  },
+  {
+    "property_id": "PROP-00251",
+    "mutation_number": "MR-28-03-002",
+    "mutation_date": "2027-04-27",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "56/2"
+  },
+  {
+    "property_id": "PROP-00252",
+    "mutation_number": "MR-28-03-003",
+    "mutation_date": "2027-05-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "57/3"
+  },
+  {
+    "property_id": "PROP-00253",
+    "mutation_number": "MR-29-01-001",
+    "mutation_date": "2027-05-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_E",
+    "new_owner": "Owner_F",
+    "survey_number": "56/1"
+  },
+  {
+    "property_id": "PROP-00254",
+    "mutation_number": "MR-29-01-002",
+    "mutation_date": "2027-05-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "57/2"
+  },
+  {
+    "property_id": "PROP-00255",
+    "mutation_number": "MR-29-01-003",
+    "mutation_date": "2027-05-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "58/3"
+  },
+  {
+    "property_id": "PROP-00256",
+    "mutation_number": "MR-29-02-001",
+    "mutation_date": "2027-05-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "59/1"
+  },
+  {
+    "property_id": "PROP-00257",
+    "mutation_number": "MR-29-02-002",
+    "mutation_date": "2027-05-21",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "60/2"
+  },
+  {
+    "property_id": "PROP-00258",
+    "mutation_number": "MR-29-02-003",
+    "mutation_date": "2027-05-25",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "61/3"
+  },
+  {
+    "property_id": "PROP-00259",
+    "mutation_number": "MR-29-03-001",
+    "mutation_date": "2027-05-29",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "62/1"
+  },
+  {
+    "property_id": "PROP-00260",
+    "mutation_number": "MR-29-03-002",
+    "mutation_date": "2027-06-02",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "63/2"
+  },
+  {
+    "property_id": "PROP-00261",
+    "mutation_number": "MR-29-03-003",
+    "mutation_date": "2027-06-06",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "64/3"
+  },
+  {
+    "property_id": "PROP-00262",
+    "mutation_number": "MR-30-01-001",
+    "mutation_date": "2027-06-10",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_F",
+    "new_owner": "Owner_G",
+    "survey_number": "63/1"
+  },
+  {
+    "property_id": "PROP-00263",
+    "mutation_number": "MR-30-01-002",
+    "mutation_date": "2027-06-14",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "64/2"
+  },
+  {
+    "property_id": "PROP-00264",
+    "mutation_number": "MR-30-01-003",
+    "mutation_date": "2027-06-18",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "65/3"
+  },
+  {
+    "property_id": "PROP-00265",
+    "mutation_number": "MR-30-02-001",
+    "mutation_date": "2027-06-22",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_H",
+    "survey_number": "66/1"
+  },
+  {
+    "property_id": "PROP-00266",
+    "mutation_number": "MR-30-02-002",
+    "mutation_date": "2027-06-26",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "67/2"
+  },
+  {
+    "property_id": "PROP-00267",
+    "mutation_number": "MR-30-02-003",
+    "mutation_date": "2027-06-30",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "68/3"
+  },
+  {
+    "property_id": "PROP-00268",
+    "mutation_number": "MR-30-03-001",
+    "mutation_date": "2027-07-04",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "69/1"
+  },
+  {
+    "property_id": "PROP-00269",
+    "mutation_number": "MR-30-03-002",
+    "mutation_date": "2027-07-08",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_D",
+    "survey_number": "70/2"
+  },
+  {
+    "property_id": "PROP-00270",
+    "mutation_number": "MR-30-03-003",
+    "mutation_date": "2027-07-12",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "71/3"
+  },
+  {
+    "property_id": "PROP-00271",
+    "mutation_number": "MR-31-01-001",
+    "mutation_date": "2027-07-16",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_G",
+    "new_owner": "Owner_D",
+    "survey_number": "70/1"
+  },
+  {
+    "property_id": "PROP-00272",
+    "mutation_number": "MR-31-01-002",
+    "mutation_date": "2027-07-20",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "71/2"
+  },
+  {
+    "property_id": "PROP-00273",
+    "mutation_number": "MR-31-01-003",
+    "mutation_date": "2027-07-24",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "72/3"
+  },
+  {
+    "property_id": "PROP-00274",
+    "mutation_number": "MR-31-02-001",
+    "mutation_date": "2027-07-28",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_H",
+    "new_owner": "Owner_A",
+    "survey_number": "73/1"
+  },
+  {
+    "property_id": "PROP-00275",
+    "mutation_number": "MR-31-02-002",
+    "mutation_date": "2027-08-01",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "74/2"
+  },
+  {
+    "property_id": "PROP-00276",
+    "mutation_number": "MR-31-02-003",
+    "mutation_date": "2027-08-05",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "75/3"
+  },
+  {
+    "property_id": "PROP-00277",
+    "mutation_number": "MR-31-03-001",
+    "mutation_date": "2027-08-09",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_A",
+    "new_owner": "Owner_B",
+    "survey_number": "76/1"
+  },
+  {
+    "property_id": "PROP-00278",
+    "mutation_number": "MR-31-03-002",
+    "mutation_date": "2027-08-13",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_B",
+    "new_owner": "Owner_C",
+    "survey_number": "77/2"
+  },
+  {
+    "property_id": "PROP-00279",
+    "mutation_number": "MR-31-03-003",
+    "mutation_date": "2027-08-17",
+    "mutation_type": "SALE",
+    "previous_owner": "Owner_C",
+    "new_owner": "Owner_D",
+    "survey_number": "78/3"
+  }
+]

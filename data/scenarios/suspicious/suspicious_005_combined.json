@@ -1,0 +1,78 @@
+{
+    "scenario_id":  "S005",
+    "scenario":  "COMBINED_SUSPICIOUS_EVENT_SEQUENCE",
+    "description":  "A mortgage is registered, followed by a registration and a mutation involving different receiving parties, followed by mortgage release and property identifier inconsistencies.",
+    "property_id":  "PROP-00005",
+    "investigation_input":  {
+                                "baseline":  {
+                                                 "survey_number":  "49/1",
+                                                 "hissa":  "1",
+                                                 "rtc_owner":  "Owner_A",
+                                                 "rtc_extent_acres":  5.0
+                                             },
+                                "events":  [
+                                               {
+                                                   "event_id":  "EVT-S005-001",
+                                                   "event_type":  "MORTGAGE_REGISTERED",
+                                                   "date":  "2024-01-30",
+                                                   "mortgagee":  "BANK_DEMO",
+                                                   "status":  "ACTIVE"
+                                               },
+                                               {
+                                                   "event_id":  "EVT-S005-002",
+                                                   "event_type":  "SALE_REGISTERED",
+                                                   "date":  "2024-02-15",
+                                                   "registration_number":  "REG-S005-001",
+                                                   "seller":  "Owner_A",
+                                                   "buyer":  "Owner_C",
+                                                   "survey_number":  "49/1A",
+                                                   "hissa":  "1",
+                                                   "registered_extent_acres":  5.0
+                                               },
+                                               {
+                                                   "event_id":  "EVT-S005-003",
+                                                   "event_type":  "MUTATION_UPDATED",
+                                                   "date":  "2024-02-17",
+                                                   "mutation_number":  "MR-S005-001",
+                                                   "previous_owner":  "Owner_A",
+                                                   "new_owner":  "Owner_D",
+                                                   "survey_number":  "49/2",
+                                                   "hissa":  "1"
+                                               },
+                                               {
+                                                   "event_id":  "EVT-S005-004",
+                                                   "event_type":  "MORTGAGE_RELEASED",
+                                                   "date":  "2024-02-20",
+                                                   "mortgagee":  "BANK_DEMO",
+                                                   "status":  "RELEASED"
+                                               }
+                                           ]
+                            },
+    "expected_result":  {
+                            "priority":  "HIGH",
+                            "finding":  "Multiple property-record inconsistencies require investigation.",
+                            "evidence":  [
+                                             "RTC identifies the property as survey 49/1, hissa 1.",
+                                             "Registration identifies survey 49/1A.",
+                                             "Mutation identifies survey 49/2.",
+                                             "Registration identifies Owner_C as the buyer.",
+                                             "Mutation identifies Owner_D as the new owner.",
+                                             "A mortgage was registered before the sale and subsequently released."
+                                         ],
+                            "reason":  "The event sequence contains both receiving-party and property-identifier inconsistencies across registration and mutation records.",
+                            "missing_evidence":  [
+                                                     "Registered sale deed",
+                                                     "Mutation order",
+                                                     "Survey sketch",
+                                                     "Subdivision or phodi record",
+                                                     "Mortgage release document",
+                                                     "Latest RTC record"
+                                                 ],
+                            "next_verification":  "Verify the registered deed, mutation order, survey/subdivision records, mortgage release document, and latest RTC before drawing any conclusion.",
+                            "safety_note":  "This pattern should be treated as an investigation signal, not as proof of fraud."
+                        },
+    "classification":  "suspicious",
+    "expected_findings":  [
+                              "ownership_mismatch"
+                          ]
+}

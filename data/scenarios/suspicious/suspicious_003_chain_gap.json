@@ -1,0 +1,45 @@
+{
+    "scenario_id":  "S003",
+    "scenario":  "OWNERSHIP_CHAIN_GAP",
+    "description":  "The ownership sequence contains a transfer from Owner_A to Owner_B, followed by a later transfer from Owner_C to Owner_D without a supporting Owner_B to Owner_C transition.",
+    "property_id":  "PROP-00003",
+    "investigation_input":  {
+                                "survey_number":  "40/3",
+                                "rtc_owner":  "Owner_B",
+                                "rtc_extent_acres":  2.5,
+                                "registration_1":  {
+                                                       "registration_number":  "REG-01-01-003A",
+                                                       "registration_date":  "2024-06-15",
+                                                       "seller":  "Owner_A",
+                                                       "buyer":  "Owner_B",
+                                                       "registered_extent_acres":  2.5
+                                                   },
+                                "registration_2":  {
+                                                       "registration_number":  "REG-01-01-003B",
+                                                       "registration_date":  "2024-09-15",
+                                                       "seller":  "Owner_C",
+                                                       "buyer":  "Owner_D",
+                                                       "registered_extent_acres":  2.5
+                                                   }
+                            },
+    "expected_result":  {
+                            "priority":  "HIGH",
+                            "finding":  "Ownership transition from Owner_B to Owner_C is not supported by the supplied records.",
+                            "evidence":  [
+                                             "First registration records Owner_A to Owner_B.",
+                                             "Later registration records Owner_C to Owner_D.",
+                                             "No supplied registration records Owner_B to Owner_C."
+                                         ],
+                            "reason":  "The later seller does not match the previously recorded buyer, creating an unexplained ownership-chain transition.",
+                            "missing_evidence":  [
+                                                     "Transfer document from Owner_B to Owner_C",
+                                                     "Intermediate mutation record",
+                                                     "Latest RTC ownership record"
+                                                 ],
+                            "next_verification":  "Search for an intermediate transfer, mutation, inheritance, partition, or court-related record explaining the Owner_B to Owner_C transition."
+                        },
+    "classification":  "suspicious",
+    "expected_findings":  [
+                              "ownership_chain_gap"
+                          ]
+}

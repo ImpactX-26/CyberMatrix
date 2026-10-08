@@ -1,0 +1,52 @@
+{
+  "scenario_id": "N003",
+  "scenario": "NORMAL_INHERITANCE_MUTATION",
+  "classification": "normal",
+  "description": "An inheritance-related mutation updates the owner consistently without conflicting property details.",
+  "property_id": "PROP-00008",
+
+  "investigation_input": {
+    "baseline": {
+      "survey_number": "43/1",
+      "hissa": "1",
+      "rtc_owner": "Owner_C",
+      "rtc_extent_acres": 2.5
+    },
+
+    "inheritance": {
+      "record_number": "INH-N003-001",
+      "record_date": "2024-04-10",
+      "previous_owner": "Owner_C",
+      "successor": "Owner_D",
+      "extent_acres": 2.5
+    },
+
+    "mutation": {
+      "mutation_number": "MR-N003-001",
+      "mutation_date": "2024-04-15",
+      "previous_owner": "Owner_C",
+      "new_owner": "Owner_D",
+      "recorded_extent_acres": 2.5,
+      "survey_number": "43/1",
+      "hissa": "1"
+    }
+  },
+
+  "expected_result": {
+    "priority": "LOW",
+    "finding": "No material inconsistency detected.",
+    "evidence": [
+      "Inheritance record identifies Owner_D as the successor.",
+      "Mutation records Owner_D as the new owner.",
+      "RTC extent is 2.5 acres.",
+      "Inheritance extent is 2.5 acres.",
+      "Mutation extent is 2.5 acres.",
+      "Survey number and hissa remain consistent."
+    ],
+    "reason": "The inheritance and mutation records agree on the receiving party, extent, and property identifiers.",
+    "missing_evidence": [],
+    "next_verification": "Routine inheritance and mutation record verification."
+  },
+
+  "expected_findings": []
+}

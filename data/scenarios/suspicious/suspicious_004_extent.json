@@ -1,0 +1,46 @@
+{
+    "scenario_id":  "S004",
+    "scenario":  "EXTENT_INCONSISTENCY",
+    "description":  "The extent recorded in the registration differs from the extent recorded in the RTC.",
+    "property_id":  "PROP-00004",
+    "investigation_input":  {
+                                "survey_number":  "41/1",
+                                "rtc_owner":  "Owner_E",
+                                "rtc_extent_acres":  5.0,
+                                "registration":  {
+                                                     "registration_number":  "REG-01-02-004",
+                                                     "registration_date":  "2024-08-10",
+                                                     "seller":  "Owner_E",
+                                                     "buyer":  "Owner_F",
+                                                     "registered_extent_acres":  6.0
+                                                 },
+                                "mutation":  {
+                                                 "mutation_number":  "MR-01-02-004",
+                                                 "mutation_date":  "2024-08-12",
+                                                 "previous_owner":  "Owner_E",
+                                                 "new_owner":  "Owner_F",
+                                                 "recorded_extent_acres":  6.0
+                                             }
+                            },
+    "expected_result":  {
+                            "priority":  "HIGH",
+                            "finding":  "Registered extent differs from the RTC extent.",
+                            "evidence":  [
+                                             "RTC records 5.0 acres.",
+                                             "Registration records 6.0 acres.",
+                                             "Mutation records 6.0 acres."
+                                         ],
+                            "reason":  "The registration and subsequent mutation record an extent greater than the RTC extent.",
+                            "missing_evidence":  [
+                                                     "Registered deed",
+                                                     "Survey sketch",
+                                                     "Subdivision or phodi record",
+                                                     "Latest RTC record"
+                                                 ],
+                            "next_verification":  "Verify whether a lawful subdivision, phodi, or survey correction explains the additional extent."
+                        },
+    "classification":  "suspicious",
+    "expected_findings":  [
+                              "extent_mismatch"
+                          ]
+}

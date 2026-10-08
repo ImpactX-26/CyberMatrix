@@ -1,0 +1,62 @@
+[
+  {
+    "scenario_id": "N001",
+    "property_id": "PROP-00006",
+    "expected_findings": []
+  },
+  {
+    "scenario_id": "N002",
+    "property_id": "PROP-00007",
+    "expected_findings": []
+  },
+  {
+    "scenario_id": "N003",
+    "property_id": "PROP-00008",
+    "expected_findings": []
+  },
+  {
+    "scenario_id": "N004",
+    "property_id": "PROP-00009",
+    "expected_findings": []
+  },
+  {
+    "scenario_id": "N005",
+    "property_id": "PROP-00010",
+    "expected_findings": []
+  },
+  {
+    "scenario_id": "S001",
+    "property_id": "PROP-00001",
+    "expected_findings": [
+      "ownership_mismatch"
+    ]
+  },
+  {
+    "scenario_id": "S002",
+    "property_id": "PROP-00002",
+    "expected_findings": [
+      "overlapping_encumbrances"
+    ]
+  },
+  {
+    "scenario_id": "S003",
+    "property_id": "PROP-00003",
+    "expected_findings": [
+      "ownership_chain_gap"
+    ]
+  },
+  {
+    "scenario_id": "S004",
+    "property_id": "PROP-00004",
+    "expected_findings": [
+      "extent_mismatch"
+    ]
+  },
+  {
+    "scenario_id": "S005",
+    "property_id": "PROP-00005",
+    "expected_findings": [
+      "ownership_mismatch"
+    ]
+  }
+]

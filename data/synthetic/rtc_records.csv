@@ -1,0 +1,280 @@
+property_id,district,taluk,village,survey_number,hissa,owner,extent_acres,record_year
+PROP-00001,Bengaluru Urban,Bengaluru North,Lakshmipura,40/1,1,Owner_A,1.5,2025
+PROP-00002,Bengaluru Urban,Bengaluru North,Hulikunte,41/2,2,Owner_B,2.0,2025
+PROP-00003,Bengaluru Urban,Bengaluru North,Kallur,42/3,3,Owner_C,2.5,2025
+PROP-00004,Bengaluru Urban,Bengaluru South,Hulikunte,43/1,1,Owner_B,2.0,2025
+PROP-00005,Bengaluru Urban,Bengaluru South,Kallur,44/2,2,Owner_C,2.5,2025
+PROP-00006,Bengaluru Urban,Bengaluru South,Basavanahalli,45/3,3,Owner_D,3.0,2025
+PROP-00007,Bengaluru Urban,Bengaluru East,Kallur,46/1,1,Owner_C,2.5,2025
+PROP-00008,Bengaluru Urban,Bengaluru East,Basavanahalli,47/2,2,Owner_D,3.0,2025
+PROP-00009,Bengaluru Urban,Bengaluru East,Gopalapura,48/3,3,Owner_E,3.5,2025
+PROP-00010,Mysuru,Mysuru,Hulikunte,47/1,1,Owner_B,2.5,2025
+PROP-00011,Mysuru,Mysuru,Kallur,48/2,2,Owner_C,3.0,2025
+PROP-00012,Mysuru,Mysuru,Basavanahalli,49/3,3,Owner_D,3.5,2025
+PROP-00013,Mysuru,Hunsur,Kallur,50/1,1,Owner_C,3.0,2025
+PROP-00014,Mysuru,Hunsur,Basavanahalli,51/2,2,Owner_D,3.5,2025
+PROP-00015,Mysuru,Hunsur,Gopalapura,52/3,3,Owner_E,4.0,2025
+PROP-00016,Mysuru,Nanjangud,Basavanahalli,53/1,1,Owner_D,3.5,2025
+PROP-00017,Mysuru,Nanjangud,Gopalapura,54/2,2,Owner_E,4.0,2025
+PROP-00018,Mysuru,Nanjangud,Naganahalli,55/3,3,Owner_F,4.5,2025
+PROP-00019,Mandya,Mandya,Kallur,54/1,1,Owner_C,3.5,2025
+PROP-00020,Mandya,Mandya,Basavanahalli,55/2,2,Owner_D,4.0,2025
+PROP-00021,Mandya,Mandya,Gopalapura,56/3,3,Owner_E,4.5,2025
+PROP-00022,Mandya,Maddur,Basavanahalli,57/1,1,Owner_D,4.0,2025
+PROP-00023,Mandya,Maddur,Gopalapura,58/2,2,Owner_E,4.5,2025
+PROP-00024,Mandya,Maddur,Naganahalli,59/3,3,Owner_F,5.0,2025
+PROP-00025,Mandya,Srirangapatna,Gopalapura,60/1,1,Owner_E,4.5,2025
+PROP-00026,Mandya,Srirangapatna,Naganahalli,61/2,2,Owner_F,5.0,2025
+PROP-00027,Mandya,Srirangapatna,Kempapura,62/3,3,Owner_G,5.5,2025
+PROP-00028,Hassan,Hassan,Basavanahalli,61/1,1,Owner_D,4.5,2025
+PROP-00029,Hassan,Hassan,Gopalapura,62/2,2,Owner_E,5.0,2025
+PROP-00030,Hassan,Hassan,Naganahalli,63/3,3,Owner_F,5.5,2025
+PROP-00031,Hassan,Arsikere,Gopalapura,64/1,1,Owner_E,5.0,2025
+PROP-00032,Hassan,Arsikere,Naganahalli,65/2,2,Owner_F,5.5,2025
+PROP-00033,Hassan,Arsikere,Kempapura,66/3,3,Owner_G,6.0,2025
+PROP-00034,Hassan,Sakleshpur,Naganahalli,67/1,1,Owner_F,5.5,2025
+PROP-00035,Hassan,Sakleshpur,Kempapura,68/2,2,Owner_G,6.0,2025
+PROP-00036,Hassan,Sakleshpur,Hosahalli,69/3,3,Owner_H,1.5,2025
+PROP-00037,Tumakuru,Tumakuru,Gopalapura,68/1,1,Owner_E,5.5,2025
+PROP-00038,Tumakuru,Tumakuru,Naganahalli,69/2,2,Owner_F,6.0,2025
+PROP-00039,Tumakuru,Tumakuru,Kempapura,70/3,3,Owner_G,1.5,2025
+PROP-00040,Tumakuru,Sira,Naganahalli,71/1,1,Owner_F,6.0,2025
+PROP-00041,Tumakuru,Sira,Kempapura,72/2,2,Owner_G,1.5,2025
+PROP-00042,Tumakuru,Sira,Hosahalli,73/3,3,Owner_H,2.0,2025
+PROP-00043,Tumakuru,Kunigal,Kempapura,74/1,1,Owner_G,1.5,2025
+PROP-00044,Tumakuru,Kunigal,Hosahalli,75/2,2,Owner_H,2.0,2025
+PROP-00045,Tumakuru,Kunigal,Lakshmipura,76/3,3,Owner_A,2.5,2025
+PROP-00046,Shivamogga,Shivamogga,Naganahalli,75/1,1,Owner_F,1.5,2025
+PROP-00047,Shivamogga,Shivamogga,Kempapura,76/2,2,Owner_G,2.0,2025
+PROP-00048,Shivamogga,Shivamogga,Hosahalli,77/3,3,Owner_H,2.5,2025
+PROP-00049,Shivamogga,Sagar,Kempapura,78/1,1,Owner_G,2.0,2025
+PROP-00050,Shivamogga,Sagar,Hosahalli,79/2,2,Owner_H,2.5,2025
+PROP-00051,Shivamogga,Sagar,Lakshmipura,80/3,3,Owner_A,3.0,2025
+PROP-00052,Shivamogga,Bhadravati,Hosahalli,81/1,1,Owner_H,2.5,2025
+PROP-00053,Shivamogga,Bhadravati,Lakshmipura,82/2,2,Owner_A,3.0,2025
+PROP-00054,Shivamogga,Bhadravati,Hulikunte,83/3,3,Owner_B,3.5,2025
+PROP-00055,Belagavi,Belagavi,Kempapura,82/1,1,Owner_G,2.5,2025
+PROP-00056,Belagavi,Belagavi,Hosahalli,83/2,2,Owner_H,3.0,2025
+PROP-00057,Belagavi,Belagavi,Lakshmipura,84/3,3,Owner_A,3.5,2025
+PROP-00058,Belagavi,Gokak,Hosahalli,85/1,1,Owner_H,3.0,2025
+PROP-00059,Belagavi,Gokak,Lakshmipura,86/2,2,Owner_A,3.5,2025
+PROP-00060,Belagavi,Gokak,Hulikunte,87/3,3,Owner_B,4.0,2025
+PROP-00061,Belagavi,Bailhongal,Lakshmipura,88/1,1,Owner_A,3.5,2025
+PROP-00062,Belagavi,Bailhongal,Hulikunte,89/2,2,Owner_B,4.0,2025
+PROP-00063,Belagavi,Bailhongal,Kallur,90/3,3,Owner_C,4.5,2025
+PROP-00064,Dharwad,Dharwad,Hosahalli,89/1,1,Owner_H,3.5,2025
+PROP-00065,Dharwad,Dharwad,Lakshmipura,90/2,2,Owner_A,4.0,2025
+PROP-00066,Dharwad,Dharwad,Hulikunte,91/3,3,Owner_B,4.5,2025
+PROP-00067,Dharwad,Hubballi,Lakshmipura,92/1,1,Owner_A,4.0,2025
+PROP-00068,Dharwad,Hubballi,Hulikunte,93/2,2,Owner_B,4.5,2025
+PROP-00069,Dharwad,Hubballi,Kallur,94/3,3,Owner_C,5.0,2025
+PROP-00070,Dharwad,Kalghatgi,Hulikunte,95/1,1,Owner_B,4.5,2025
+PROP-00071,Dharwad,Kalghatgi,Kallur,96/2,2,Owner_C,5.0,2025
+PROP-00072,Dharwad,Kalghatgi,Basavanahalli,97/3,3,Owner_D,5.5,2025
+PROP-00073,Udupi,Udupi,Lakshmipura,96/1,1,Owner_A,4.5,2025
+PROP-00074,Udupi,Udupi,Hulikunte,97/2,2,Owner_B,5.0,2025
+PROP-00075,Udupi,Udupi,Kallur,98/3,3,Owner_C,5.5,2025
+PROP-00076,Udupi,Kundapura,Hulikunte,99/1,1,Owner_B,5.0,2025
+PROP-00077,Udupi,Kundapura,Kallur,40/2,2,Owner_C,5.5,2025
+PROP-00078,Udupi,Kundapura,Basavanahalli,41/3,3,Owner_D,6.0,2025
+PROP-00079,Udupi,Karkala,Kallur,42/1,1,Owner_C,5.5,2025
+PROP-00080,Udupi,Karkala,Basavanahalli,43/2,2,Owner_D,6.0,2025
+PROP-00081,Udupi,Karkala,Gopalapura,44/3,3,Owner_E,1.5,2025
+PROP-00082,Dakshina Kannada,Mangaluru,Hulikunte,43/1,1,Owner_B,5.5,2025
+PROP-00083,Dakshina Kannada,Mangaluru,Kallur,44/2,2,Owner_C,6.0,2025
+PROP-00084,Dakshina Kannada,Mangaluru,Basavanahalli,45/3,3,Owner_D,1.5,2025
+PROP-00085,Dakshina Kannada,Bantwal,Kallur,46/1,1,Owner_C,6.0,2025
+PROP-00086,Dakshina Kannada,Bantwal,Basavanahalli,47/2,2,Owner_D,1.5,2025
+PROP-00087,Dakshina Kannada,Bantwal,Gopalapura,48/3,3,Owner_E,2.0,2025
+PROP-00088,Dakshina Kannada,Puttur,Basavanahalli,49/1,1,Owner_D,1.5,2025
+PROP-00089,Dakshina Kannada,Puttur,Gopalapura,50/2,2,Owner_E,2.0,2025
+PROP-00090,Dakshina Kannada,Puttur,Naganahalli,51/3,3,Owner_F,2.5,2025
+PROP-00091,Kodagu,Madikeri,Kallur,50/1,1,Owner_C,1.5,2025
+PROP-00092,Kodagu,Madikeri,Basavanahalli,51/2,2,Owner_D,2.0,2025
+PROP-00093,Kodagu,Madikeri,Gopalapura,52/3,3,Owner_E,2.5,2025
+PROP-00094,Kodagu,Virajpet,Basavanahalli,53/1,1,Owner_D,2.0,2025
+PROP-00095,Kodagu,Virajpet,Gopalapura,54/2,2,Owner_E,2.5,2025
+PROP-00096,Kodagu,Virajpet,Naganahalli,55/3,3,Owner_F,3.0,2025
+PROP-00097,Kodagu,Somwarpet,Gopalapura,56/1,1,Owner_E,2.5,2025
+PROP-00098,Kodagu,Somwarpet,Naganahalli,57/2,2,Owner_F,3.0,2025
+PROP-00099,Kodagu,Somwarpet,Kempapura,58/3,3,Owner_G,3.5,2025
+PROP-00100,Chikkamagaluru,Chikkamagaluru,Basavanahalli,57/1,1,Owner_D,2.5,2025
+PROP-00101,Chikkamagaluru,Chikkamagaluru,Gopalapura,58/2,2,Owner_E,3.0,2025
+PROP-00102,Chikkamagaluru,Chikkamagaluru,Naganahalli,59/3,3,Owner_F,3.5,2025
+PROP-00103,Chikkamagaluru,Kadur,Gopalapura,60/1,1,Owner_E,3.0,2025
+PROP-00104,Chikkamagaluru,Kadur,Naganahalli,61/2,2,Owner_F,3.5,2025
+PROP-00105,Chikkamagaluru,Kadur,Kempapura,62/3,3,Owner_G,4.0,2025
+PROP-00106,Chikkamagaluru,Mudigere,Naganahalli,63/1,1,Owner_F,3.5,2025
+PROP-00107,Chikkamagaluru,Mudigere,Kempapura,64/2,2,Owner_G,4.0,2025
+PROP-00108,Chikkamagaluru,Mudigere,Hosahalli,65/3,3,Owner_H,4.5,2025
+PROP-00109,Ballari,Ballari,Gopalapura,64/1,1,Owner_E,3.5,2025
+PROP-00110,Ballari,Ballari,Naganahalli,65/2,2,Owner_F,4.0,2025
+PROP-00111,Ballari,Ballari,Kempapura,66/3,3,Owner_G,4.5,2025
+PROP-00112,Ballari,Hospet,Naganahalli,67/1,1,Owner_F,4.0,2025
+PROP-00113,Ballari,Hospet,Kempapura,68/2,2,Owner_G,4.5,2025
+PROP-00114,Ballari,Hospet,Hosahalli,69/3,3,Owner_H,5.0,2025
+PROP-00115,Ballari,Siruguppa,Kempapura,70/1,1,Owner_G,4.5,2025
+PROP-00116,Ballari,Siruguppa,Hosahalli,71/2,2,Owner_H,5.0,2025
+PROP-00117,Ballari,Siruguppa,Lakshmipura,72/3,3,Owner_A,5.5,2025
+PROP-00118,Vijayapura,Vijayapura,Naganahalli,71/1,1,Owner_F,4.5,2025
+PROP-00119,Vijayapura,Vijayapura,Kempapura,72/2,2,Owner_G,5.0,2025
+PROP-00120,Vijayapura,Vijayapura,Hosahalli,73/3,3,Owner_H,5.5,2025
+PROP-00121,Vijayapura,Indi,Kempapura,74/1,1,Owner_G,5.0,2025
+PROP-00122,Vijayapura,Indi,Hosahalli,75/2,2,Owner_H,5.5,2025
+PROP-00123,Vijayapura,Indi,Lakshmipura,76/3,3,Owner_A,6.0,2025
+PROP-00124,Vijayapura,Sindagi,Hosahalli,77/1,1,Owner_H,5.5,2025
+PROP-00125,Vijayapura,Sindagi,Lakshmipura,78/2,2,Owner_A,6.0,2025
+PROP-00126,Vijayapura,Sindagi,Hulikunte,79/3,3,Owner_B,1.5,2025
+PROP-00127,Kalaburagi,Kalaburagi,Kempapura,78/1,1,Owner_G,5.5,2025
+PROP-00128,Kalaburagi,Kalaburagi,Hosahalli,79/2,2,Owner_H,6.0,2025
+PROP-00129,Kalaburagi,Kalaburagi,Lakshmipura,80/3,3,Owner_A,1.5,2025
+PROP-00130,Kalaburagi,Aland,Hosahalli,81/1,1,Owner_H,6.0,2025
+PROP-00131,Kalaburagi,Aland,Lakshmipura,82/2,2,Owner_A,1.5,2025
+PROP-00132,Kalaburagi,Aland,Hulikunte,83/3,3,Owner_B,2.0,2025
+PROP-00133,Kalaburagi,Chittapur,Lakshmipura,84/1,1,Owner_A,1.5,2025
+PROP-00134,Kalaburagi,Chittapur,Hulikunte,85/2,2,Owner_B,2.0,2025
+PROP-00135,Kalaburagi,Chittapur,Kallur,86/3,3,Owner_C,2.5,2025
+PROP-00136,Raichur,Raichur,Hosahalli,85/1,1,Owner_H,1.5,2025
+PROP-00137,Raichur,Raichur,Lakshmipura,86/2,2,Owner_A,2.0,2025
+PROP-00138,Raichur,Raichur,Hulikunte,87/3,3,Owner_B,2.5,2025
+PROP-00139,Raichur,Manvi,Lakshmipura,88/1,1,Owner_A,2.0,2025
+PROP-00140,Raichur,Manvi,Hulikunte,89/2,2,Owner_B,2.5,2025
+PROP-00141,Raichur,Manvi,Kallur,90/3,3,Owner_C,3.0,2025
+PROP-00142,Raichur,Sindhanur,Hulikunte,91/1,1,Owner_B,2.5,2025
+PROP-00143,Raichur,Sindhanur,Kallur,92/2,2,Owner_C,3.0,2025
+PROP-00144,Raichur,Sindhanur,Basavanahalli,93/3,3,Owner_D,3.5,2025
+PROP-00145,Koppal,Koppal,Lakshmipura,92/1,1,Owner_A,2.5,2025
+PROP-00146,Koppal,Koppal,Hulikunte,93/2,2,Owner_B,3.0,2025
+PROP-00147,Koppal,Koppal,Kallur,94/3,3,Owner_C,3.5,2025
+PROP-00148,Koppal,Gangavathi,Hulikunte,95/1,1,Owner_B,3.0,2025
+PROP-00149,Koppal,Gangavathi,Kallur,96/2,2,Owner_C,3.5,2025
+PROP-00150,Koppal,Gangavathi,Basavanahalli,97/3,3,Owner_D,4.0,2025
+PROP-00151,Koppal,Yelburga,Kallur,98/1,1,Owner_C,3.5,2025
+PROP-00152,Koppal,Yelburga,Basavanahalli,99/2,2,Owner_D,4.0,2025
+PROP-00153,Koppal,Yelburga,Gopalapura,40/3,3,Owner_E,4.5,2025
+PROP-00154,Bidar,Bidar,Hulikunte,99/1,1,Owner_B,3.5,2025
+PROP-00155,Bidar,Bidar,Kallur,40/2,2,Owner_C,4.0,2025
+PROP-00156,Bidar,Bidar,Basavanahalli,41/3,3,Owner_D,4.5,2025
+PROP-00157,Bidar,Bhalki,Kallur,42/1,1,Owner_C,4.0,2025
+PROP-00158,Bidar,Bhalki,Basavanahalli,43/2,2,Owner_D,4.5,2025
+PROP-00159,Bidar,Bhalki,Gopalapura,44/3,3,Owner_E,5.0,2025
+PROP-00160,Bidar,Basavakalyan,Basavanahalli,45/1,1,Owner_D,4.5,2025
+PROP-00161,Bidar,Basavakalyan,Gopalapura,46/2,2,Owner_E,5.0,2025
+PROP-00162,Bidar,Basavakalyan,Naganahalli,47/3,3,Owner_F,5.5,2025
+PROP-00163,Chitradurga,Chitradurga,Kallur,46/1,1,Owner_C,4.5,2025
+PROP-00164,Chitradurga,Chitradurga,Basavanahalli,47/2,2,Owner_D,5.0,2025
+PROP-00165,Chitradurga,Chitradurga,Gopalapura,48/3,3,Owner_E,5.5,2025
+PROP-00166,Chitradurga,Hiriyur,Basavanahalli,49/1,1,Owner_D,5.0,2025
+PROP-00167,Chitradurga,Hiriyur,Gopalapura,50/2,2,Owner_E,5.5,2025
+PROP-00168,Chitradurga,Hiriyur,Naganahalli,51/3,3,Owner_F,6.0,2025
+PROP-00169,Chitradurga,Holalkere,Gopalapura,52/1,1,Owner_E,5.5,2025
+PROP-00170,Chitradurga,Holalkere,Naganahalli,53/2,2,Owner_F,6.0,2025
+PROP-00171,Chitradurga,Holalkere,Kempapura,54/3,3,Owner_G,1.5,2025
+PROP-00172,Chikkaballapur,Chikkaballapur,Basavanahalli,53/1,1,Owner_D,5.5,2025
+PROP-00173,Chikkaballapur,Chikkaballapur,Gopalapura,54/2,2,Owner_E,6.0,2025
+PROP-00174,Chikkaballapur,Chikkaballapur,Naganahalli,55/3,3,Owner_F,1.5,2025
+PROP-00175,Chikkaballapur,Sidlaghatta,Gopalapura,56/1,1,Owner_E,6.0,2025
+PROP-00176,Chikkaballapur,Sidlaghatta,Naganahalli,57/2,2,Owner_F,1.5,2025
+PROP-00177,Chikkaballapur,Sidlaghatta,Kempapura,58/3,3,Owner_G,2.0,2025
+PROP-00178,Chikkaballapur,Chintamani,Naganahalli,59/1,1,Owner_F,1.5,2025
+PROP-00179,Chikkaballapur,Chintamani,Kempapura,60/2,2,Owner_G,2.0,2025
+PROP-00180,Chikkaballapur,Chintamani,Hosahalli,61/3,3,Owner_H,2.5,2025
+PROP-00181,Ramanagara,Ramanagara,Gopalapura,60/1,1,Owner_E,1.5,2025
+PROP-00182,Ramanagara,Ramanagara,Naganahalli,61/2,2,Owner_F,2.0,2025
+PROP-00183,Ramanagara,Ramanagara,Kempapura,62/3,3,Owner_G,2.5,2025
+PROP-00184,Ramanagara,Channapatna,Naganahalli,63/1,1,Owner_F,2.0,2025
+PROP-00185,Ramanagara,Channapatna,Kempapura,64/2,2,Owner_G,2.5,2025
+PROP-00186,Ramanagara,Channapatna,Hosahalli,65/3,3,Owner_H,3.0,2025
+PROP-00187,Ramanagara,Kanakapura,Kempapura,66/1,1,Owner_G,2.5,2025
+PROP-00188,Ramanagara,Kanakapura,Hosahalli,67/2,2,Owner_H,3.0,2025
+PROP-00189,Ramanagara,Kanakapura,Lakshmipura,68/3,3,Owner_A,3.5,2025
+PROP-00190,Kolar,Kolar,Naganahalli,67/1,1,Owner_F,2.5,2025
+PROP-00191,Kolar,Kolar,Kempapura,68/2,2,Owner_G,3.0,2025
+PROP-00192,Kolar,Kolar,Hosahalli,69/3,3,Owner_H,3.5,2025
+PROP-00193,Kolar,Malur,Kempapura,70/1,1,Owner_G,3.0,2025
+PROP-00194,Kolar,Malur,Hosahalli,71/2,2,Owner_H,3.5,2025
+PROP-00195,Kolar,Malur,Lakshmipura,72/3,3,Owner_A,4.0,2025
+PROP-00196,Kolar,Bangarapet,Hosahalli,73/1,1,Owner_H,3.5,2025
+PROP-00197,Kolar,Bangarapet,Lakshmipura,74/2,2,Owner_A,4.0,2025
+PROP-00198,Kolar,Bangarapet,Hulikunte,75/3,3,Owner_B,4.5,2025
+PROP-00199,Yadgir,Yadgir,Kempapura,74/1,1,Owner_G,3.5,2025
+PROP-00200,Yadgir,Yadgir,Hosahalli,75/2,2,Owner_H,4.0,2025
+PROP-00201,Yadgir,Yadgir,Lakshmipura,76/3,3,Owner_A,4.5,2025
+PROP-00202,Yadgir,Shahapur,Hosahalli,77/1,1,Owner_H,4.0,2025
+PROP-00203,Yadgir,Shahapur,Lakshmipura,78/2,2,Owner_A,4.5,2025
+PROP-00204,Yadgir,Shahapur,Hulikunte,79/3,3,Owner_B,5.0,2025
+PROP-00205,Yadgir,Surpur,Lakshmipura,80/1,1,Owner_A,4.5,2025
+PROP-00206,Yadgir,Surpur,Hulikunte,81/2,2,Owner_B,5.0,2025
+PROP-00207,Yadgir,Surpur,Kallur,82/3,3,Owner_C,5.5,2025
+PROP-00208,Gadag,Gadag,Hosahalli,81/1,1,Owner_H,4.5,2025
+PROP-00209,Gadag,Gadag,Lakshmipura,82/2,2,Owner_A,5.0,2025
+PROP-00210,Gadag,Gadag,Hulikunte,83/3,3,Owner_B,5.5,2025
+PROP-00211,Gadag,Mundargi,Lakshmipura,84/1,1,Owner_A,5.0,2025
+PROP-00212,Gadag,Mundargi,Hulikunte,85/2,2,Owner_B,5.5,2025
+PROP-00213,Gadag,Mundargi,Kallur,86/3,3,Owner_C,6.0,2025
+PROP-00214,Gadag,Nargund,Hulikunte,87/1,1,Owner_B,5.5,2025
+PROP-00215,Gadag,Nargund,Kallur,88/2,2,Owner_C,6.0,2025
+PROP-00216,Gadag,Nargund,Basavanahalli,89/3,3,Owner_D,1.5,2025
+PROP-00217,Haveri,Haveri,Lakshmipura,88/1,1,Owner_A,5.5,2025
+PROP-00218,Haveri,Haveri,Hulikunte,89/2,2,Owner_B,6.0,2025
+PROP-00219,Haveri,Haveri,Kallur,90/3,3,Owner_C,1.5,2025
+PROP-00220,Haveri,Ranebennur,Hulikunte,91/1,1,Owner_B,6.0,2025
+PROP-00221,Haveri,Ranebennur,Kallur,92/2,2,Owner_C,1.5,2025
+PROP-00222,Haveri,Ranebennur,Basavanahalli,93/3,3,Owner_D,2.0,2025
+PROP-00223,Haveri,Byadgi,Kallur,94/1,1,Owner_C,1.5,2025
+PROP-00224,Haveri,Byadgi,Basavanahalli,95/2,2,Owner_D,2.0,2025
+PROP-00225,Haveri,Byadgi,Gopalapura,96/3,3,Owner_E,2.5,2025
+PROP-00226,Uttara Kannada,Karwar,Hulikunte,95/1,1,Owner_B,1.5,2025
+PROP-00227,Uttara Kannada,Karwar,Kallur,96/2,2,Owner_C,2.0,2025
+PROP-00228,Uttara Kannada,Karwar,Basavanahalli,97/3,3,Owner_D,2.5,2025
+PROP-00229,Uttara Kannada,Sirsi,Kallur,98/1,1,Owner_C,2.0,2025
+PROP-00230,Uttara Kannada,Sirsi,Basavanahalli,99/2,2,Owner_D,2.5,2025
+PROP-00231,Uttara Kannada,Sirsi,Gopalapura,40/3,3,Owner_E,3.0,2025
+PROP-00232,Uttara Kannada,Kumta,Basavanahalli,41/1,1,Owner_D,2.5,2025
+PROP-00233,Uttara Kannada,Kumta,Gopalapura,42/2,2,Owner_E,3.0,2025
+PROP-00234,Uttara Kannada,Kumta,Naganahalli,43/3,3,Owner_F,3.5,2025
+PROP-00235,Chamarajanagar,Chamarajanagar,Kallur,42/1,1,Owner_C,2.5,2025
+PROP-00236,Chamarajanagar,Chamarajanagar,Basavanahalli,43/2,2,Owner_D,3.0,2025
+PROP-00237,Chamarajanagar,Chamarajanagar,Gopalapura,44/3,3,Owner_E,3.5,2025
+PROP-00238,Chamarajanagar,Gundlupet,Basavanahalli,45/1,1,Owner_D,3.0,2025
+PROP-00239,Chamarajanagar,Gundlupet,Gopalapura,46/2,2,Owner_E,3.5,2025
+PROP-00240,Chamarajanagar,Gundlupet,Naganahalli,47/3,3,Owner_F,4.0,2025
+PROP-00241,Chamarajanagar,Kollegal,Gopalapura,48/1,1,Owner_E,3.5,2025
+PROP-00242,Chamarajanagar,Kollegal,Naganahalli,49/2,2,Owner_F,4.0,2025
+PROP-00243,Chamarajanagar,Kollegal,Kempapura,50/3,3,Owner_G,4.5,2025
+PROP-00244,Bagalkot,Bagalkot,Basavanahalli,49/1,1,Owner_D,3.5,2025
+PROP-00245,Bagalkot,Bagalkot,Gopalapura,50/2,2,Owner_E,4.0,2025
+PROP-00246,Bagalkot,Bagalkot,Naganahalli,51/3,3,Owner_F,4.5,2025
+PROP-00247,Bagalkot,Jamkhandi,Gopalapura,52/1,1,Owner_E,4.0,2025
+PROP-00248,Bagalkot,Jamkhandi,Naganahalli,53/2,2,Owner_F,4.5,2025
+PROP-00249,Bagalkot,Jamkhandi,Kempapura,54/3,3,Owner_G,5.0,2025
+PROP-00250,Bagalkot,Mudhol,Naganahalli,55/1,1,Owner_F,4.5,2025
+PROP-00251,Bagalkot,Mudhol,Kempapura,56/2,2,Owner_G,5.0,2025
+PROP-00252,Bagalkot,Mudhol,Hosahalli,57/3,3,Owner_H,5.5,2025
+PROP-00253,Vijayanagara,Hosapete,Gopalapura,56/1,1,Owner_E,4.5,2025
+PROP-00254,Vijayanagara,Hosapete,Naganahalli,57/2,2,Owner_F,5.0,2025
+PROP-00255,Vijayanagara,Hosapete,Kempapura,58/3,3,Owner_G,5.5,2025
+PROP-00256,Vijayanagara,Harapanahalli,Naganahalli,59/1,1,Owner_F,5.0,2025
+PROP-00257,Vijayanagara,Harapanahalli,Kempapura,60/2,2,Owner_G,5.5,2025
+PROP-00258,Vijayanagara,Harapanahalli,Hosahalli,61/3,3,Owner_H,6.0,2025
+PROP-00259,Vijayanagara,Kudligi,Kempapura,62/1,1,Owner_G,5.5,2025
+PROP-00260,Vijayanagara,Kudligi,Hosahalli,63/2,2,Owner_H,6.0,2025
+PROP-00261,Vijayanagara,Kudligi,Lakshmipura,64/3,3,Owner_A,1.5,2025
+PROP-00262,Davanagere,Davanagere,Naganahalli,63/1,1,Owner_F,5.5,2025
+PROP-00263,Davanagere,Davanagere,Kempapura,64/2,2,Owner_G,6.0,2025
+PROP-00264,Davanagere,Davanagere,Hosahalli,65/3,3,Owner_H,1.5,2025
+PROP-00265,Davanagere,Harihar,Kempapura,66/1,1,Owner_G,6.0,2025
+PROP-00266,Davanagere,Harihar,Hosahalli,67/2,2,Owner_H,1.5,2025
+PROP-00267,Davanagere,Harihar,Lakshmipura,68/3,3,Owner_A,2.0,2025
+PROP-00268,Davanagere,Channagiri,Hosahalli,69/1,1,Owner_H,1.5,2025
+PROP-00269,Davanagere,Channagiri,Lakshmipura,70/2,2,Owner_A,2.0,2025
+PROP-00270,Davanagere,Channagiri,Hulikunte,71/3,3,Owner_B,2.5,2025
+PROP-00271,Bengaluru Rural,Devanahalli,Kempapura,70/1,1,Owner_G,1.5,2025
+PROP-00272,Bengaluru Rural,Devanahalli,Hosahalli,71/2,2,Owner_H,2.0,2025
+PROP-00273,Bengaluru Rural,Devanahalli,Lakshmipura,72/3,3,Owner_A,2.5,2025
+PROP-00274,Bengaluru Rural,Doddaballapura,Hosahalli,73/1,1,Owner_H,2.0,2025
+PROP-00275,Bengaluru Rural,Doddaballapura,Lakshmipura,74/2,2,Owner_A,2.5,2025
+PROP-00276,Bengaluru Rural,Doddaballapura,Hulikunte,75/3,3,Owner_B,3.0,2025
+PROP-00277,Bengaluru Rural,Nelamangala,Lakshmipura,76/1,1,Owner_A,2.5,2025
+PROP-00278,Bengaluru Rural,Nelamangala,Hulikunte,77/2,2,Owner_B,3.0,2025
+PROP-00279,Bengaluru Rural,Nelamangala,Kallur,78/3,3,Owner_C,3.5,2025

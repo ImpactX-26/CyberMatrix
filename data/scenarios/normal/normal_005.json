@@ -1,0 +1,69 @@
+{
+  "scenario_id": "N005",
+  "scenario": "NORMAL_SALE_MORTGAGE_RELEASE",
+  "classification": "normal",
+  "description": "A sale occurs with consistent ownership and property details, followed by a mortgage release without conflicting records.",
+  "property_id": "PROP-00010",
+
+  "investigation_input": {
+    "baseline": {
+      "survey_number": "45/1",
+      "hissa": "1",
+      "rtc_owner": "Owner_G",
+      "rtc_extent_acres": 4.5
+    },
+
+    "registration": {
+      "registration_number": "REG-N005-001",
+      "registration_date": "2024-06-10",
+      "seller": "Owner_G",
+      "buyer": "Owner_H",
+      "registered_extent_acres": 4.5,
+      "survey_number": "45/1",
+      "hissa": "1"
+    },
+
+    "mutation": {
+      "mutation_number": "MR-N005-001",
+      "mutation_date": "2024-06-12",
+      "previous_owner": "Owner_G",
+      "new_owner": "Owner_H",
+      "recorded_extent_acres": 4.5,
+      "survey_number": "45/1",
+      "hissa": "1"
+    },
+
+    "mortgage": {
+      "mortgage_number": "MTG-N005-001",
+      "mortgage_date": "2024-07-01",
+      "mortgagee": "BANK_DEMO",
+      "amount_inr": 500000,
+      "status": "RELEASED",
+      "release_date": "2024-12-01"
+    },
+
+    "encumbrance": {
+      "status": "RELEASED",
+      "checked_date": "2024-12-02"
+    }
+  },
+
+  "expected_result": {
+    "priority": "LOW",
+    "finding": "No material inconsistency detected.",
+    "evidence": [
+      "Registration identifies Owner_H as the buyer.",
+      "Mutation identifies Owner_H as the new owner.",
+      "RTC extent is 4.5 acres.",
+      "Registered extent is 4.5 acres.",
+      "Mutation extent is 4.5 acres.",
+      "Survey number and hissa remain consistent.",
+      "Mortgage was subsequently released."
+    ],
+    "reason": "The sale, mutation, mortgage, and mortgage release records are internally consistent.",
+    "missing_evidence": [],
+    "next_verification": "Routine registration, mutation, and encumbrance verification."
+  },
+
+  "expected_findings": []
+}

@@ -1,0 +1,47 @@
+
+{
+  "scenario_id": "N002",
+  "scenario": "NORMAL_MORTGAGE_RELEASE",
+  "classification": "normal",
+  "description": "A mortgage is registered and later released without any conflicting ownership or property changes.",
+  "property_id": "PROP-00007",
+
+  "investigation_input": {
+    "baseline": {
+      "survey_number": "42/2",
+      "hissa": "1",
+      "rtc_owner": "Owner_B",
+      "rtc_extent_acres": 4.0
+    },
+
+    "mortgage": {
+      "mortgage_number": "MTG-N002-001",
+      "mortgage_date": "2024-02-01",
+      "mortgagee": "BANK_DEMO",
+      "amount_inr": 300000,
+      "status": "RELEASED",
+      "release_date": "2024-08-01"
+    },
+
+    "encumbrance": {
+      "status": "RELEASED",
+      "checked_date": "2024-08-02"
+    }
+  },
+
+  "expected_result": {
+    "priority": "LOW",
+    "finding": "No material inconsistency detected.",
+    "evidence": [
+      "Mortgage was registered against the property.",
+      "Mortgage was subsequently released.",
+      "No conflicting owner change is recorded.",
+      "Survey number and hissa remain unchanged."
+    ],
+    "reason": "The mortgage lifecycle is internally consistent from registration through release.",
+    "missing_evidence": [],
+    "next_verification": "Routine encumbrance verification."
+  },
+
+  "expected_findings": []
+}

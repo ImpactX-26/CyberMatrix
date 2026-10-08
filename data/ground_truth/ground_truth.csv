@@ -1,0 +1,11 @@
+scenario_id,property_id,expected_findings
+N001,PROP-00006,
+N002,PROP-00007,
+N003,PROP-00008,
+N004,PROP-00009,
+N005,PROP-00010,
+S001,PROP-00001,ownership_mismatch
+S002,PROP-00002,overlapping_encumbrances
+S003,PROP-00003,ownership_chain_gap
+S004,PROP-00004,extent_mismatch
+S005,PROP-00005,ownership_mismatch

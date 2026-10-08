@@ -1,0 +1,280 @@
+property_id,scenario,expected_priority,expected_finding,expected_next_check
+PROP-00001,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00002,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00003,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00004,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00005,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00006,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00007,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00008,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00009,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00010,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00011,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00012,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00013,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00014,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00015,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00016,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00017,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00018,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00019,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00020,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00021,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00022,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00023,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00024,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00025,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00026,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00027,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00028,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00029,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00030,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00031,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00032,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00033,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00034,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00035,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00036,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00037,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00038,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00039,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00040,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00041,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00042,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00043,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00044,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00045,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00046,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00047,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00048,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00049,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00050,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00051,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00052,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00053,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00054,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00055,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00056,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00057,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00058,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00059,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00060,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00061,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00062,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00063,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00064,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00065,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00066,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00067,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00068,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00069,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00070,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00071,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00072,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00073,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00074,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00075,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00076,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00077,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00078,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00079,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00080,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00081,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00082,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00083,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00084,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00085,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00086,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00087,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00088,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00089,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00090,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00091,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00092,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00093,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00094,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00095,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00096,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00097,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00098,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00099,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00100,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00101,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00102,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00103,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00104,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00105,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00106,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00107,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00108,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00109,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00110,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00111,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00112,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00113,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00114,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00115,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00116,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00117,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00118,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00119,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00120,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00121,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00122,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00123,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00124,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00125,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00126,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00127,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00128,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00129,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00130,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00131,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00132,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00133,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00134,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00135,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00136,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00137,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00138,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00139,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00140,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00141,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00142,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00143,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00144,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00145,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00146,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00147,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00148,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00149,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00150,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00151,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00152,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00153,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00154,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00155,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00156,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00157,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00158,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00159,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00160,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00161,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00162,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00163,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00164,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00165,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00166,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00167,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00168,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00169,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00170,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00171,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00172,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00173,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00174,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00175,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00176,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00177,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00178,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00179,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00180,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00181,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00182,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00183,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00184,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00185,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00186,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00187,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00188,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00189,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00190,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00191,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00192,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00193,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00194,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00195,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00196,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00197,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00198,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00199,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00200,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00201,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00202,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00203,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00204,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00205,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00206,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00207,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00208,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00209,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00210,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00211,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00212,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00213,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00214,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00215,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00216,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00217,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00218,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00219,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00220,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00221,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00222,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00223,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00224,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00225,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00226,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00227,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00228,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00229,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00230,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00231,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00232,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00233,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00234,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00235,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00236,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00237,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00238,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00239,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00240,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00241,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00242,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00243,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00244,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00245,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00246,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00247,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00248,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00249,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00250,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00251,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00252,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00253,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00254,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00255,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00256,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00257,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00258,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00259,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00260,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00261,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00262,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00263,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00264,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00265,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00266,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00267,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00268,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00269,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00270,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00271,REGISTRATION_MUTATION_MISMATCH,HIGH,Registration and mutation indicate different receiving parties,Verify underlying deed and mutation order
+PROP-00272,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00273,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00274,EXTENT_INCONSISTENCY,MEDIUM,Recorded extent differs between RTC and registration,Verify survey sketch and registered extent
+PROP-00275,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00276,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00277,OWNERSHIP_CHAIN_GAP,HIGH,Ownership transition lacks an intermediate supporting record,Verify missing transfer document
+PROP-00278,NORMAL,LOW,No material inconsistency detected,Routine record verification
+PROP-00279,NORMAL,LOW,No material inconsistency detected,Routine record verification

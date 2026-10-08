@@ -1,0 +1,46 @@
+{
+    "scenario_id":  "S002",
+    "scenario":  "OVERLAPPING_TRANSACTION",
+    "description":  "Two registrations transfer overlapping portions of the same property extent.",
+    "property_id":  "PROP-00002",
+    "investigation_input":  {
+                                "survey_number":  "40/2",
+                                "rtc_owner":  "Owner_B",
+                                "rtc_extent_acres":  2.0,
+                                "registration_1":  {
+                                                       "registration_number":  "REG-01-01-002A",
+                                                       "registration_date":  "2024-07-30",
+                                                       "seller":  "Owner_B",
+                                                       "buyer":  "Owner_C",
+                                                       "registered_extent_acres":  1.5
+                                                   },
+                                "registration_2":  {
+                                                       "registration_number":  "REG-01-01-002B",
+                                                       "registration_date":  "2024-08-05",
+                                                       "seller":  "Owner_B",
+                                                       "buyer":  "Owner_D",
+                                                       "registered_extent_acres":  1.5
+                                                   }
+                            },
+    "expected_result":  {
+                            "priority":  "HIGH",
+                            "finding":  "Two transactions appear to cover overlapping portions of the same property.",
+                            "evidence":  [
+                                             "RTC extent is 2.0 acres.",
+                                             "First registration covers 1.5 acres.",
+                                             "Second registration covers another 1.5 acres.",
+                                             "Combined registered extent is 3.0 acres."
+                                         ],
+                            "reason":  "The combined registered extent exceeds the available RTC extent.",
+                            "missing_evidence":  [
+                                                     "Registered deeds for both transactions",
+                                                     "Survey sketch or subdivision record",
+                                                     "Latest RTC record"
+                                                 ],
+                            "next_verification":  "Verify whether the two transactions refer to distinct legally subdivided portions."
+                        },
+    "classification":  "suspicious",
+    "expected_findings":  [
+                              "overlapping_encumbrances"
+                          ]
+}

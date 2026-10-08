@@ -1,0 +1,42 @@
+{
+    "scenario_id":  "S001",
+    "scenario":  "REGISTRATION_MUTATION_MISMATCH",
+    "description":  "Registration identifies one receiving party while the subsequent mutation identifies a different receiving party.",
+    "property_id":  "PROP-00001",
+    "investigation_input":  {
+                                "survey_number":  "40/1",
+                                "rtc_owner":  "Owner_A",
+                                "rtc_extent_acres":  1.5,
+                                "registration":  {
+                                                     "registration_number":  "REG-01-01-001",
+                                                     "registration_date":  "2024-07-29",
+                                                     "seller":  "Owner_A",
+                                                     "buyer":  "Owner_C",
+                                                     "registered_extent_acres":  1.5
+                                                 },
+                                "mutation":  {
+                                                 "mutation_number":  "MR-01-01-001",
+                                                 "mutation_date":  "2024-07-31",
+                                                 "previous_owner":  "Owner_A",
+                                                 "new_owner":  "Owner_D"
+                                             }
+                            },
+    "expected_result":  {
+                            "priority":  "HIGH",
+                            "finding":  "Registration and mutation indicate different receiving parties.",
+                            "evidence":  [
+                                             "Registration record identifies Owner_C as buyer.",
+                                             "Mutation record identifies Owner_D as new owner."
+                                         ],
+                            "reason":  "The receiving party in the registration differs from the party recorded in the mutation.",
+                            "missing_evidence":  [
+                                                     "Underlying registered deed",
+                                                     "Mutation order"
+                                                 ],
+                            "next_verification":  "Verify the underlying deed and mutation order."
+                        },
+    "classification":  "suspicious",
+    "expected_findings":  [
+                              "ownership_mismatch"
+                          ]
+}

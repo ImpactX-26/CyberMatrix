@@ -1,0 +1,54 @@
+
+{
+  "scenario_id": "N001",
+  "scenario": "NORMAL_SALE_MUTATION",
+  "classification": "normal",
+  "description": "A normal sale is followed by a mutation to the same buyer with matching property details.",
+  "property_id": "PROP-00006",
+
+  "investigation_input": {
+    "baseline": {
+      "survey_number": "42/1",
+      "hissa": "1",
+      "rtc_owner": "Owner_A",
+      "rtc_extent_acres": 3.0
+    },
+
+    "registration": {
+      "registration_number": "REG-N001-001",
+      "registration_date": "2024-03-10",
+      "seller": "Owner_A",
+      "buyer": "Owner_B",
+      "registered_extent_acres": 3.0,
+      "survey_number": "42/1",
+      "hissa": "1"
+    },
+
+    "mutation": {
+      "mutation_number": "MR-N001-001",
+      "mutation_date": "2024-03-12",
+      "previous_owner": "Owner_A",
+      "new_owner": "Owner_B",
+      "recorded_extent_acres": 3.0,
+      "survey_number": "42/1",
+      "hissa": "1"
+    }
+  },
+
+  "expected_result": {
+    "priority": "LOW",
+    "finding": "No material inconsistency detected.",
+    "evidence": [
+      "Registration buyer is Owner_B.",
+      "Mutation new owner is Owner_B.",
+      "RTC extent is 3.0 acres.",
+      "Registered extent is 3.0 acres.",
+      "Survey number and hissa are consistent."
+    ],
+    "reason": "The registration and mutation records agree on the receiving party and property details.",
+    "missing_evidence": [],
+    "next_verification": "Routine record verification."
+  },
+
+  "expected_findings": []
+}

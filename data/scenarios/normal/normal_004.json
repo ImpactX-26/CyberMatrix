@@ -1,0 +1,54 @@
+{
+  "scenario_id": "N004",
+  "scenario": "NORMAL_PARTITION_MUTATION",
+  "classification": "normal",
+  "description": "A lawful partition is followed by a mutation with consistent property identifiers and extents.",
+  "property_id": "PROP-00009",
+
+  "investigation_input": {
+    "baseline": {
+      "survey_number": "44/1",
+      "hissa": "1",
+      "rtc_owner": "Owner_E",
+      "rtc_extent_acres": 6.0
+    },
+
+    "partition": {
+      "partition_number": "PART-N004-001",
+      "partition_date": "2024-05-10",
+      "original_owner": "Owner_E",
+      "new_owner": "Owner_F",
+      "partitioned_extent_acres": 3.0,
+      "survey_number": "44/1",
+      "hissa": "1A"
+    },
+
+    "mutation": {
+      "mutation_number": "MR-N004-001",
+      "mutation_date": "2024-05-15",
+      "previous_owner": "Owner_E",
+      "new_owner": "Owner_F",
+      "recorded_extent_acres": 3.0,
+      "survey_number": "44/1",
+      "hissa": "1A"
+    }
+  },
+
+  "expected_result": {
+    "priority": "LOW",
+    "finding": "No material inconsistency detected.",
+    "evidence": [
+      "Partition record identifies Owner_F as the new owner.",
+      "Mutation records Owner_F as the new owner.",
+      "Partitioned extent is 3.0 acres.",
+      "Mutation extent is 3.0 acres.",
+      "Survey number remains 44/1.",
+      "Hissa is consistently recorded as 1A."
+    ],
+    "reason": "The partition and mutation records agree on the receiving party, extent, survey number, and hissa.",
+    "missing_evidence": [],
+    "next_verification": "Routine partition and mutation record verification."
+  },
+
+  "expected_findings": []
+}
