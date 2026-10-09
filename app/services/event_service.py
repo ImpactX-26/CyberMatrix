@@ -35,7 +35,7 @@ def get_property_events(db: Session, property_id: str) -> List[Event]:
 
 
 def create_property_event(db: Session, property_id: str, data: EventCreate) -> Event:
-    """Store a new synthetic/demo event (is_demo is always True here)."""
+    """Store a new property event."""
     _require_property(db, property_id)
     event = Event(
         property_id=property_id,
@@ -44,7 +44,7 @@ def create_property_event(db: Session, property_id: str, data: EventCreate) -> E
         source_type=data.source_type,
         source_id=data.source_id,
         description=data.description,
-        is_demo=True,
+        
     )
     db.add(event)
     db.commit()
@@ -69,24 +69,4 @@ def get_property_timeline(db: Session, property_id: str) -> List[dict]:
     ]
 
 
-def delete_demo_events(db: Session, property_id: str) -> int:
-    """Delete ONLY this property's demo events. Returns how many were deleted.
 
-    Evidence rows are never deleted: if one was linked to a deleted event, it is kept
-    and simply unlinked (event_id set to NULL). Property and record tables are untouched.
-    """
-    _require_property(db, property_id)
-    demo_ids = [
-        row[0]
-        for row in db.query(Event.id)
-        .filter(Event.property_id == property_id, Event.is_demo.is_(True))
-        .all()
-    ]
-    if not demo_ids:
-        return 0
-
-    db.execute(update(Evidence).where(Evidence.event_id.in_(demo_ids)).values(event_id=None))
-    # Bulk delete (not ORM delete) so the Event -> Evidence cascade cannot remove evidence.
-    db.query(Event).filter(Event.id.in_(demo_ids)).delete(synchronize_session=False)
-    db.commit()
-    return len(demo_ids)

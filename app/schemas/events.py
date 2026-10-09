@@ -52,7 +52,7 @@ class EventDetail(BaseModel):
     source_type: Optional[str] = None
     source_id: Optional[str] = None
     description: Optional[str] = None
-    is_demo: bool
+    
     previous_state: Optional[Dict[str, Any]] = None
     new_state: Optional[Dict[str, Any]] = None
 
@@ -78,7 +78,4 @@ class TimelineResponse(BaseModel):
     timeline: List[TimelineEvent]
 
 
-class DeleteDemoEventsResponse(BaseModel):
-    property_id: str
-    deleted_count: int
-    status: str = "deleted"
+

@@ -1,10 +1,9 @@
-"""Property event endpoints: list, timeline, create, delete demo events."""
+"""Property event endpoints: list, timeline, create."""
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 
 from app.database import get_db
 from app.schemas.events import (
-    DeleteDemoEventsResponse,
     EventCreate,
     EventCreatedResponse,
     EventDetail,
@@ -18,7 +17,10 @@ router = APIRouter(prefix="/api/properties", tags=["events"])
 
 
 def _not_found(err: PropertyNotFoundError) -> HTTPException:
-    return HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=str(err))
+    return HTTPException(
+        status_code=status.HTTP_404_NOT_FOUND,
+        detail=str(err),
+    )
 
 
 def _to_detail(e) -> EventDetail:
@@ -30,7 +32,6 @@ def _to_detail(e) -> EventDetail:
         source_type=e.source_type,
         source_id=e.source_id,
         description=e.description,
-        is_demo=e.is_demo,
         previous_state=e.previous_state,
         new_state=e.new_state,
     )
@@ -42,8 +43,11 @@ def list_events(property_id: str, db: Session = Depends(get_db)):
         events = event_service.get_property_events(db, property_id)
     except PropertyNotFoundError as err:
         raise _not_found(err)
+
     return EventListResponse(
-        property_id=property_id, count=len(events), events=[_to_detail(e) for e in events]
+        property_id=property_id,
+        count=len(events),
+        events=[_to_detail(e) for e in events],
     )
 
 
@@ -53,16 +57,28 @@ def get_timeline(property_id: str, db: Session = Depends(get_db)):
         timeline = event_service.get_property_timeline(db, property_id)
     except PropertyNotFoundError as err:
         raise _not_found(err)
-    return TimelineResponse(property_id=property_id, timeline=timeline)
+
+    return TimelineResponse(
+        property_id=property_id,
+        timeline=timeline,
+    )
 
 
-@router.post("/{property_id}/events", response_model=EventCreatedResponse,
-             status_code=status.HTTP_201_CREATED)
-def create_event(property_id: str, body: EventCreate, db: Session = Depends(get_db)):
+@router.post(
+    "/{property_id}/events",
+    response_model=EventCreatedResponse,
+    status_code=status.HTTP_201_CREATED,
+)
+def create_event(
+    property_id: str,
+    body: EventCreate,
+    db: Session = Depends(get_db),
+):
     try:
         event = event_service.create_property_event(db, property_id, body)
     except PropertyNotFoundError as err:
         raise _not_found(err)
+
     return EventCreatedResponse(
         event_id=event.id,
         property_id=event.property_id,
@@ -70,13 +86,3 @@ def create_event(property_id: str, body: EventCreate, db: Session = Depends(get_
         event_date=event.event_date,
         status="created",
     )
-
-
-@router.delete("/{property_id}/events/demo", response_model=DeleteDemoEventsResponse)
-def delete_demo_events(property_id: str, db: Session = Depends(get_db)):
-    """Development helper: removes only this property's synthetic demo events."""
-    try:
-        deleted = event_service.delete_demo_events(db, property_id)
-    except PropertyNotFoundError as err:
-        raise _not_found(err)
-    return DeleteDemoEventsResponse(property_id=property_id, deleted_count=deleted, status="deleted")
