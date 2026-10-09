@@ -1,0 +1,740 @@
+[
+  {
+    "property_id": "PROP-00009",
+    "mortgage_number": "MTG-00010",
+    "mortgage_date": "2024-03-03",
+    "lender": "Lender_A",
+    "amount_inr": 200000,
+    "status": "RELEASED",
+    "release_date": "2024-08-30"
+  },
+  {
+    "property_id": "PROP-00011",
+    "mortgage_number": "MTG-00012",
+    "mortgage_date": "2024-03-11",
+    "lender": "Lender_A",
+    "amount_inr": 175000,
+    "status": "RELEASED",
+    "release_date": "2024-09-07"
+  },
+  {
+    "property_id": "PROP-00012",
+    "mortgage_number": "MTG-00013",
+    "mortgage_date": "2024-03-15",
+    "lender": "Lender_A",
+    "amount_inr": 175000,
+    "status": "RELEASED",
+    "release_date": "2024-09-11"
+  },
+  {
+    "property_id": "PROP-00013",
+    "mortgage_number": "MTG-00014",
+    "mortgage_date": "2024-03-19",
+    "lender": "Lender_A",
+    "amount_inr": 200000,
+    "status": "RELEASED",
+    "release_date": "2024-09-15"
+  },
+  {
+    "property_id": "PROP-00014",
+    "mortgage_number": "MTG-00015",
+    "mortgage_date": "2024-03-23",
+    "lender": "Lender_A",
+    "amount_inr": 200000,
+    "status": "RELEASED",
+    "release_date": "2024-09-19"
+  },
+  {
+    "property_id": "PROP-00015",
+    "mortgage_number": "MTG-00016",
+    "mortgage_date": "2024-03-27",
+    "lender": "Lender_A",
+    "amount_inr": 200000,
+    "status": "RELEASED",
+    "release_date": "2024-09-23"
+  },
+  {
+    "property_id": "PROP-00016",
+    "mortgage_number": "MTG-00017",
+    "mortgage_date": "2024-03-31",
+    "lender": "Lender_A",
+    "amount_inr": 225000,
+    "status": "RELEASED",
+    "release_date": "2024-09-27"
+  },
+  {
+    "property_id": "PROP-00017",
+    "mortgage_number": "MTG-00018",
+    "mortgage_date": "2024-04-04",
+    "lender": "Lender_A",
+    "amount_inr": 225000,
+    "status": "RELEASED",
+    "release_date": "2024-10-01"
+  },
+  {
+    "property_id": "PROP-00019",
+    "mortgage_number": "MTG-00020",
+    "mortgage_date": "2024-04-12",
+    "lender": "Lender_A",
+    "amount_inr": 200000,
+    "status": "RELEASED",
+    "release_date": "2024-10-09"
+  },
+  {
+    "property_id": "PROP-00039",
+    "mortgage_number": "MTG-00040",
+    "mortgage_date": "2024-07-01",
+    "lender": "Lender_A",
+    "amount_inr": 250000,
+    "status": "RELEASED",
+    "release_date": "2024-12-28"
+  },
+  {
+    "property_id": "PROP-00041",
+    "mortgage_number": "MTG-00042",
+    "mortgage_date": "2024-07-09",
+    "lender": "Lender_A",
+    "amount_inr": 275000,
+    "status": "RELEASED",
+    "release_date": "2025-01-05"
+  },
+  {
+    "property_id": "PROP-00042",
+    "mortgage_number": "MTG-00043",
+    "mortgage_date": "2024-07-13",
+    "lender": "Lender_A",
+    "amount_inr": 275000,
+    "status": "RELEASED",
+    "release_date": "2025-01-09"
+  },
+  {
+    "property_id": "PROP-00043",
+    "mortgage_number": "MTG-00044",
+    "mortgage_date": "2024-07-17",
+    "lender": "Lender_A",
+    "amount_inr": 300000,
+    "status": "RELEASED",
+    "release_date": "2025-01-13"
+  },
+  {
+    "property_id": "PROP-00044",
+    "mortgage_number": "MTG-00045",
+    "mortgage_date": "2024-07-21",
+    "lender": "Lender_A",
+    "amount_inr": 300000,
+    "status": "RELEASED",
+    "release_date": "2025-01-17"
+  },
+  {
+    "property_id": "PROP-00045",
+    "mortgage_number": "MTG-00046",
+    "mortgage_date": "2024-07-25",
+    "lender": "Lender_A",
+    "amount_inr": 300000,
+    "status": "RELEASED",
+    "release_date": "2025-01-21"
+  },
+  {
+    "property_id": "PROP-00046",
+    "mortgage_number": "MTG-00047",
+    "mortgage_date": "2024-07-29",
+    "lender": "Lender_A",
+    "amount_inr": 275000,
+    "status": "RELEASED",
+    "release_date": "2025-01-25"
+  },
+  {
+    "property_id": "PROP-00047",
+    "mortgage_number": "MTG-00048",
+    "mortgage_date": "2024-08-02",
+    "lender": "Lender_A",
+    "amount_inr": 275000,
+    "status": "RELEASED",
+    "release_date": "2025-01-29"
+  },
+  {
+    "property_id": "PROP-00049",
+    "mortgage_number": "MTG-00050",
+    "mortgage_date": "2024-08-10",
+    "lender": "Lender_A",
+    "amount_inr": 300000,
+    "status": "RELEASED",
+    "release_date": "2025-02-06"
+  },
+  {
+    "property_id": "PROP-00069",
+    "mortgage_number": "MTG-00070",
+    "mortgage_date": "2024-10-29",
+    "lender": "Lender_A",
+    "amount_inr": 350000,
+    "status": "RELEASED",
+    "release_date": "2025-04-27"
+  },
+  {
+    "property_id": "PROP-00071",
+    "mortgage_number": "MTG-00072",
+    "mortgage_date": "2024-11-06",
+    "lender": "Lender_A",
+    "amount_inr": 375000,
+    "status": "RELEASED",
+    "release_date": "2025-05-05"
+  },
+  {
+    "property_id": "PROP-00072",
+    "mortgage_number": "MTG-00073",
+    "mortgage_date": "2024-11-10",
+    "lender": "Lender_A",
+    "amount_inr": 375000,
+    "status": "RELEASED",
+    "release_date": "2025-05-09"
+  },
+  {
+    "property_id": "PROP-00073",
+    "mortgage_number": "MTG-00074",
+    "mortgage_date": "2024-11-14",
+    "lender": "Lender_A",
+    "amount_inr": 350000,
+    "status": "RELEASED",
+    "release_date": "2025-05-13"
+  },
+  {
+    "property_id": "PROP-00074",
+    "mortgage_number": "MTG-00075",
+    "mortgage_date": "2024-11-18",
+    "lender": "Lender_A",
+    "amount_inr": 350000,
+    "status": "RELEASED",
+    "release_date": "2025-05-17"
+  },
+  {
+    "property_id": "PROP-00075",
+    "mortgage_number": "MTG-00076",
+    "mortgage_date": "2024-11-22",
+    "lender": "Lender_A",
+    "amount_inr": 350000,
+    "status": "RELEASED",
+    "release_date": "2025-05-21"
+  },
+  {
+    "property_id": "PROP-00076",
+    "mortgage_number": "MTG-00077",
+    "mortgage_date": "2024-11-26",
+    "lender": "Lender_A",
+    "amount_inr": 375000,
+    "status": "RELEASED",
+    "release_date": "2025-05-25"
+  },
+  {
+    "property_id": "PROP-00077",
+    "mortgage_number": "MTG-00078",
+    "mortgage_date": "2024-11-30",
+    "lender": "Lender_A",
+    "amount_inr": 375000,
+    "status": "RELEASED",
+    "release_date": "2025-05-29"
+  },
+  {
+    "property_id": "PROP-00079",
+    "mortgage_number": "MTG-00080",
+    "mortgage_date": "2024-12-08",
+    "lender": "Lender_A",
+    "amount_inr": 400000,
+    "status": "RELEASED",
+    "release_date": "2025-06-06"
+  },
+  {
+    "property_id": "PROP-00099",
+    "mortgage_number": "MTG-00100",
+    "mortgage_date": "2025-02-26",
+    "lender": "Lender_A",
+    "amount_inr": 450000,
+    "status": "RELEASED",
+    "release_date": "2025-08-25"
+  },
+  {
+    "property_id": "PROP-00101",
+    "mortgage_number": "MTG-00102",
+    "mortgage_date": "2025-03-06",
+    "lender": "Lender_A",
+    "amount_inr": 425000,
+    "status": "RELEASED",
+    "release_date": "2025-09-02"
+  },
+  {
+    "property_id": "PROP-00102",
+    "mortgage_number": "MTG-00103",
+    "mortgage_date": "2025-03-10",
+    "lender": "Lender_A",
+    "amount_inr": 425000,
+    "status": "RELEASED",
+    "release_date": "2025-09-06"
+  },
+  {
+    "property_id": "PROP-00103",
+    "mortgage_number": "MTG-00104",
+    "mortgage_date": "2025-03-14",
+    "lender": "Lender_A",
+    "amount_inr": 450000,
+    "status": "RELEASED",
+    "release_date": "2025-09-10"
+  },
+  {
+    "property_id": "PROP-00104",
+    "mortgage_number": "MTG-00105",
+    "mortgage_date": "2025-03-18",
+    "lender": "Lender_A",
+    "amount_inr": 450000,
+    "status": "RELEASED",
+    "release_date": "2025-09-14"
+  },
+  {
+    "property_id": "PROP-00105",
+    "mortgage_number": "MTG-00106",
+    "mortgage_date": "2025-03-22",
+    "lender": "Lender_A",
+    "amount_inr": 450000,
+    "status": "RELEASED",
+    "release_date": "2025-09-18"
+  },
+  {
+    "property_id": "PROP-00106",
+    "mortgage_number": "MTG-00107",
+    "mortgage_date": "2025-03-26",
+    "lender": "Lender_A",
+    "amount_inr": 475000,
+    "status": "RELEASED",
+    "release_date": "2025-09-22"
+  },
+  {
+    "property_id": "PROP-00107",
+    "mortgage_number": "MTG-00108",
+    "mortgage_date": "2025-03-30",
+    "lender": "Lender_A",
+    "amount_inr": 475000,
+    "status": "RELEASED",
+    "release_date": "2025-09-26"
+  },
+  {
+    "property_id": "PROP-00109",
+    "mortgage_number": "MTG-00110",
+    "mortgage_date": "2025-04-07",
+    "lender": "Lender_A",
+    "amount_inr": 450000,
+    "status": "RELEASED",
+    "release_date": "2025-10-04"
+  },
+  {
+    "property_id": "PROP-00129",
+    "mortgage_number": "MTG-00130",
+    "mortgage_date": "2025-06-26",
+    "lender": "Lender_A",
+    "amount_inr": 500000,
+    "status": "RELEASED",
+    "release_date": "2025-12-23"
+  },
+  {
+    "property_id": "PROP-00131",
+    "mortgage_number": "MTG-00132",
+    "mortgage_date": "2025-07-04",
+    "lender": "Lender_A",
+    "amount_inr": 525000,
+    "status": "RELEASED",
+    "release_date": "2025-12-31"
+  },
+  {
+    "property_id": "PROP-00132",
+    "mortgage_number": "MTG-00133",
+    "mortgage_date": "2025-07-08",
+    "lender": "Lender_A",
+    "amount_inr": 525000,
+    "status": "RELEASED",
+    "release_date": "2026-01-04"
+  },
+  {
+    "property_id": "PROP-00133",
+    "mortgage_number": "MTG-00134",
+    "mortgage_date": "2025-07-12",
+    "lender": "Lender_A",
+    "amount_inr": 550000,
+    "status": "RELEASED",
+    "release_date": "2026-01-08"
+  },
+  {
+    "property_id": "PROP-00134",
+    "mortgage_number": "MTG-00135",
+    "mortgage_date": "2025-07-16",
+    "lender": "Lender_A",
+    "amount_inr": 550000,
+    "status": "RELEASED",
+    "release_date": "2026-01-12"
+  },
+  {
+    "property_id": "PROP-00135",
+    "mortgage_number": "MTG-00136",
+    "mortgage_date": "2025-07-20",
+    "lender": "Lender_A",
+    "amount_inr": 550000,
+    "status": "RELEASED",
+    "release_date": "2026-01-16"
+  },
+  {
+    "property_id": "PROP-00136",
+    "mortgage_number": "MTG-00137",
+    "mortgage_date": "2025-07-24",
+    "lender": "Lender_A",
+    "amount_inr": 525000,
+    "status": "RELEASED",
+    "release_date": "2026-01-20"
+  },
+  {
+    "property_id": "PROP-00137",
+    "mortgage_number": "MTG-00138",
+    "mortgage_date": "2025-07-28",
+    "lender": "Lender_A",
+    "amount_inr": 525000,
+    "status": "RELEASED",
+    "release_date": "2026-01-24"
+  },
+  {
+    "property_id": "PROP-00139",
+    "mortgage_number": "MTG-00140",
+    "mortgage_date": "2025-08-05",
+    "lender": "Lender_A",
+    "amount_inr": 550000,
+    "status": "RELEASED",
+    "release_date": "2026-02-01"
+  },
+  {
+    "property_id": "PROP-00159",
+    "mortgage_number": "MTG-00160",
+    "mortgage_date": "2025-10-24",
+    "lender": "Lender_A",
+    "amount_inr": 600000,
+    "status": "RELEASED",
+    "release_date": "2026-04-22"
+  },
+  {
+    "property_id": "PROP-00161",
+    "mortgage_number": "MTG-00162",
+    "mortgage_date": "2025-11-01",
+    "lender": "Lender_A",
+    "amount_inr": 625000,
+    "status": "RELEASED",
+    "release_date": "2026-04-30"
+  },
+  {
+    "property_id": "PROP-00162",
+    "mortgage_number": "MTG-00163",
+    "mortgage_date": "2025-11-05",
+    "lender": "Lender_A",
+    "amount_inr": 625000,
+    "status": "RELEASED",
+    "release_date": "2026-05-04"
+  },
+  {
+    "property_id": "PROP-00163",
+    "mortgage_number": "MTG-00164",
+    "mortgage_date": "2025-11-09",
+    "lender": "Lender_A",
+    "amount_inr": 600000,
+    "status": "RELEASED",
+    "release_date": "2026-05-08"
+  },
+  {
+    "property_id": "PROP-00164",
+    "mortgage_number": "MTG-00165",
+    "mortgage_date": "2025-11-13",
+    "lender": "Lender_A",
+    "amount_inr": 600000,
+    "status": "RELEASED",
+    "release_date": "2026-05-12"
+  },
+  {
+    "property_id": "PROP-00165",
+    "mortgage_number": "MTG-00166",
+    "mortgage_date": "2025-11-17",
+    "lender": "Lender_A",
+    "amount_inr": 600000,
+    "status": "RELEASED",
+    "release_date": "2026-05-16"
+  },
+  {
+    "property_id": "PROP-00166",
+    "mortgage_number": "MTG-00167",
+    "mortgage_date": "2025-11-21",
+    "lender": "Lender_A",
+    "amount_inr": 625000,
+    "status": "RELEASED",
+    "release_date": "2026-05-20"
+  },
+  {
+    "property_id": "PROP-00167",
+    "mortgage_number": "MTG-00168",
+    "mortgage_date": "2025-11-25",
+    "lender": "Lender_A",
+    "amount_inr": 625000,
+    "status": "RELEASED",
+    "release_date": "2026-05-24"
+  },
+  {
+    "property_id": "PROP-00169",
+    "mortgage_number": "MTG-00170",
+    "mortgage_date": "2025-12-03",
+    "lender": "Lender_A",
+    "amount_inr": 650000,
+    "status": "RELEASED",
+    "release_date": "2026-06-01"
+  },
+  {
+    "property_id": "PROP-00189",
+    "mortgage_number": "MTG-00190",
+    "mortgage_date": "2026-02-21",
+    "lender": "Lender_A",
+    "amount_inr": 700000,
+    "status": "RELEASED",
+    "release_date": "2026-08-20"
+  },
+  {
+    "property_id": "PROP-00191",
+    "mortgage_number": "MTG-00192",
+    "mortgage_date": "2026-03-01",
+    "lender": "Lender_A",
+    "amount_inr": 675000,
+    "status": "RELEASED",
+    "release_date": "2026-08-28"
+  },
+  {
+    "property_id": "PROP-00192",
+    "mortgage_number": "MTG-00193",
+    "mortgage_date": "2026-03-05",
+    "lender": "Lender_A",
+    "amount_inr": 675000,
+    "status": "RELEASED",
+    "release_date": "2026-09-01"
+  },
+  {
+    "property_id": "PROP-00193",
+    "mortgage_number": "MTG-00194",
+    "mortgage_date": "2026-03-09",
+    "lender": "Lender_A",
+    "amount_inr": 700000,
+    "status": "RELEASED",
+    "release_date": "2026-09-05"
+  },
+  {
+    "property_id": "PROP-00194",
+    "mortgage_number": "MTG-00195",
+    "mortgage_date": "2026-03-13",
+    "lender": "Lender_A",
+    "amount_inr": 700000,
+    "status": "RELEASED",
+    "release_date": "2026-09-09"
+  },
+  {
+    "property_id": "PROP-00195",
+    "mortgage_number": "MTG-00196",
+    "mortgage_date": "2026-03-17",
+    "lender": "Lender_A",
+    "amount_inr": 700000,
+    "status": "RELEASED",
+    "release_date": "2026-09-13"
+  },
+  {
+    "property_id": "PROP-00196",
+    "mortgage_number": "MTG-00197",
+    "mortgage_date": "2026-03-21",
+    "lender": "Lender_A",
+    "amount_inr": 725000,
+    "status": "RELEASED",
+    "release_date": "2026-09-17"
+  },
+  {
+    "property_id": "PROP-00197",
+    "mortgage_number": "MTG-00198",
+    "mortgage_date": "2026-03-25",
+    "lender": "Lender_A",
+    "amount_inr": 725000,
+    "status": "RELEASED",
+    "release_date": "2026-09-21"
+  },
+  {
+    "property_id": "PROP-00199",
+    "mortgage_number": "MTG-00200",
+    "mortgage_date": "2026-04-02",
+    "lender": "Lender_A",
+    "amount_inr": 700000,
+    "status": "RELEASED",
+    "release_date": "2026-09-29"
+  },
+  {
+    "property_id": "PROP-00219",
+    "mortgage_number": "MTG-00220",
+    "mortgage_date": "2026-06-21",
+    "lender": "Lender_A",
+    "amount_inr": 750000,
+    "status": "RELEASED",
+    "release_date": "2026-12-18"
+  },
+  {
+    "property_id": "PROP-00221",
+    "mortgage_number": "MTG-00222",
+    "mortgage_date": "2026-06-29",
+    "lender": "Lender_A",
+    "amount_inr": 775000,
+    "status": "RELEASED",
+    "release_date": "2026-12-26"
+  },
+  {
+    "property_id": "PROP-00222",
+    "mortgage_number": "MTG-00223",
+    "mortgage_date": "2026-07-03",
+    "lender": "Lender_A",
+    "amount_inr": 775000,
+    "status": "RELEASED",
+    "release_date": "2026-12-30"
+  },
+  {
+    "property_id": "PROP-00223",
+    "mortgage_number": "MTG-00224",
+    "mortgage_date": "2026-07-07",
+    "lender": "Lender_A",
+    "amount_inr": 800000,
+    "status": "RELEASED",
+    "release_date": "2027-01-03"
+  },
+  {
+    "property_id": "PROP-00224",
+    "mortgage_number": "MTG-00225",
+    "mortgage_date": "2026-07-11",
+    "lender": "Lender_A",
+    "amount_inr": 800000,
+    "status": "RELEASED",
+    "release_date": "2027-01-07"
+  },
+  {
+    "property_id": "PROP-00225",
+    "mortgage_number": "MTG-00226",
+    "mortgage_date": "2026-07-15",
+    "lender": "Lender_A",
+    "amount_inr": 800000,
+    "status": "RELEASED",
+    "release_date": "2027-01-11"
+  },
+  {
+    "property_id": "PROP-00226",
+    "mortgage_number": "MTG-00227",
+    "mortgage_date": "2026-07-19",
+    "lender": "Lender_A",
+    "amount_inr": 775000,
+    "status": "RELEASED",
+    "release_date": "2027-01-15"
+  },
+  {
+    "property_id": "PROP-00227",
+    "mortgage_number": "MTG-00228",
+    "mortgage_date": "2026-07-23",
+    "lender": "Lender_A",
+    "amount_inr": 775000,
+    "status": "RELEASED",
+    "release_date": "2027-01-19"
+  },
+  {
+    "property_id": "PROP-00229",
+    "mortgage_number": "MTG-00230",
+    "mortgage_date": "2026-07-31",
+    "lender": "Lender_A",
+    "amount_inr": 800000,
+    "status": "RELEASED",
+    "release_date": "2027-01-27"
+  },
+  {
+    "property_id": "PROP-00249",
+    "mortgage_number": "MTG-00250",
+    "mortgage_date": "2026-10-19",
+    "lender": "Lender_A",
+    "amount_inr": 850000,
+    "status": "RELEASED",
+    "release_date": "2027-04-17"
+  },
+  {
+    "property_id": "PROP-00251",
+    "mortgage_number": "MTG-00252",
+    "mortgage_date": "2026-10-27",
+    "lender": "Lender_A",
+    "amount_inr": 875000,
+    "status": "RELEASED",
+    "release_date": "2027-04-25"
+  },
+  {
+    "property_id": "PROP-00252",
+    "mortgage_number": "MTG-00253",
+    "mortgage_date": "2026-10-31",
+    "lender": "Lender_A",
+    "amount_inr": 875000,
+    "status": "RELEASED",
+    "release_date": "2027-04-29"
+  },
+  {
+    "property_id": "PROP-00253",
+    "mortgage_number": "MTG-00254",
+    "mortgage_date": "2026-11-04",
+    "lender": "Lender_A",
+    "amount_inr": 850000,
+    "status": "RELEASED",
+    "release_date": "2027-05-03"
+  },
+  {
+    "property_id": "PROP-00254",
+    "mortgage_number": "MTG-00255",
+    "mortgage_date": "2026-11-08",
+    "lender": "Lender_A",
+    "amount_inr": 850000,
+    "status": "RELEASED",
+    "release_date": "2027-05-07"
+  },
+  {
+    "property_id": "PROP-00255",
+    "mortgage_number": "MTG-00256",
+    "mortgage_date": "2026-11-12",
+    "lender": "Lender_A",
+    "amount_inr": 850000,
+    "status": "RELEASED",
+    "release_date": "2027-05-11"
+  },
+  {
+    "property_id": "PROP-00256",
+    "mortgage_number": "MTG-00257",
+    "mortgage_date": "2026-11-16",
+    "lender": "Lender_A",
+    "amount_inr": 875000,
+    "status": "RELEASED",
+    "release_date": "2027-05-15"
+  },
+  {
+    "property_id": "PROP-00257",
+    "mortgage_number": "MTG-00258",
+    "mortgage_date": "2026-11-20",
+    "lender": "Lender_A",
+    "amount_inr": 875000,
+    "status": "RELEASED",
+    "release_date": "2027-05-19"
+  },
+  {
+    "property_id": "PROP-00259",
+    "mortgage_number": "MTG-00260",
+    "mortgage_date": "2026-11-28",
+    "lender": "Lender_A",
+    "amount_inr": 900000,
+    "status": "RELEASED",
+    "release_date": "2027-05-27"
+  },
+  {
+    "property_id": "PROP-00279",
+    "mortgage_number": "MTG-00280",
+    "mortgage_date": "2027-02-16",
+    "lender": "Lender_A",
+    "amount_inr": 950000,
+    "status": "RELEASED",
+    "release_date": "2027-08-15"
+  }
+]

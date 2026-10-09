@@ -26,8 +26,7 @@ class Event(Base):
     source_id: Mapped[str | None] = mapped_column(String(50), default=None)    # e.g. "REG-102"
     description: Mapped[str | None] = mapped_column(Text, default=None)
 
-    # True for synthetic/demo events, so the dev DELETE endpoint can remove only those.
-    is_demo: Mapped[bool] = mapped_column(Boolean, default=True, nullable=False)
+    
 
     # Structured before/after snapshots stored as JSON dicts, e.g.
     # {"owner_name": "Person A", "extent_acres": 5.0, "mortgage_status": "None"}

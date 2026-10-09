@@ -5,6 +5,7 @@ from .mutation import MutationRecord
 from .mortgage import MortgageRecord
 from .event import Event
 from .evidence import Evidence
+from .reminder import LandVisitReminder
 
 __all__ = [
     "Property",
@@ -13,4 +14,5 @@ __all__ = [
     "MortgageRecord",
     "Event",
     "Evidence",
+    "LandVisitReminder"
 ]

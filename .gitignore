@@ -2,3 +2,19 @@ venv/
 __pycache__/
 *.db
 .env
+
+
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets and databases
+.env
+*.db
+
+# Frontend dependencies and build output
+node_modules/
+dist/
